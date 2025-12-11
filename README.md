@@ -2,6 +2,12 @@
 
 Embeddable Swift interpreter that parses Swift source with SwiftSyntax, compiles it into a compact bytecode, and executes it on a stack VM. It is designed to run inside iOS/macOS apps and on the web (WASM) without a JIT or external processes, with host interop to call real Swift/Foundation APIs.
 
+## Live demo
+- Run Swift snippets instantly in the browser: https://swiftly.sh
+- No installs or toolchains needed; copy/paste Swift and see results on-device or desktop.
+
+![Swiftly demo running in the browser](Screenshot.jpg)
+
 ## What’s here
 - **Interpreter core:** `InterpreterCompiler` lowers a Swift subset to bytecode; `InterpreterVM` executes it; `InterpreterModels` defines values/opcodes/IDs.
 - **Host interop:** Runtime registry for host methods/properties with selector/property interning, allowlists, collision guards, and VM state gating (`prepare`, `invoke`). Foundation bindings are generated; Swift stdlib bindings are a WIP.
