@@ -1,0 +1,294 @@
+{
+  "()" : [
+    "Key",
+    "Value"
+  ],
+  "Swift.AnyBidirectionalCollection" : [
+    "Element"
+  ],
+  "Swift.AnyCollection" : [
+    "Element"
+  ],
+  "Swift.AnyIterator" : [
+    "Element"
+  ],
+  "Swift.AnyRandomAccessCollection" : [
+    "Element"
+  ],
+  "Swift.AnySequence" : [
+    "Element"
+  ],
+  "Swift.Array" : [
+    "Element"
+  ],
+  "Swift.ArraySlice" : [
+    "Element"
+  ],
+  "Swift.ClosedRange" : [
+    "Bound"
+  ],
+  "Swift.CollectionDifference" : [
+    "ChangeElement"
+  ],
+  "Swift.CollectionDifference.Change" : [
+    "ChangeElement"
+  ],
+  "Swift.CollectionOfOne" : [
+    "Element"
+  ],
+  "Swift.ContiguousArray" : [
+    "Element"
+  ],
+  "Swift.DefaultIndices" : [
+    "Elements"
+  ],
+  "Swift.Dictionary" : [
+    "Key",
+    "Value"
+  ],
+  "Swift.Dictionary.Index" : [
+    "Key",
+    "Value"
+  ],
+  "Swift.DiscontiguousSlice" : [
+    "Base"
+  ],
+  "Swift.DropFirstSequence" : [
+    "Base"
+  ],
+  "Swift.DropWhileSequence" : [
+    "Base"
+  ],
+  "Swift.EmptyCollection" : [
+    "Element"
+  ],
+  "Swift.EmptyCollection.Iterator" : [
+    "Element"
+  ],
+  "Swift.EnumeratedSequence" : [
+    "Base"
+  ],
+  "Swift.EnumeratedSequence.Iterator" : [
+    "Base"
+  ],
+  "Swift.EnumeratedSequence.Iterator.Element" : [
+    "Base"
+  ],
+  "Swift.FlattenSequence" : [
+    "Base"
+  ],
+  "Swift.FlattenSequence.Iterator" : [
+    "Base"
+  ],
+  "Swift.FlattenSequence.Iterator.Element" : [
+    "Base"
+  ],
+  "Swift.IndexingIterator" : [
+    "Elements"
+  ],
+  "Swift.InlineArray" : [
+    "count",
+    "Element"
+  ],
+  "Swift.IteratorSequence" : [
+    "Base"
+  ],
+  "Swift.JoinedSequence" : [
+    "Base"
+  ],
+  "Swift.KeyPath" : [
+    "Root",
+    "Value"
+  ],
+  "Swift.KeyValuePairs" : [
+    "Key",
+    "Value"
+  ],
+  "Swift.KeyedDecodingContainer" : [
+    "K"
+  ],
+  "Swift.KeyedEncodingContainer" : [
+    "K"
+  ],
+  "Swift.LazyDropWhileSequence" : [
+    "Base"
+  ],
+  "Swift.LazyFilterSequence" : [
+    "Base"
+  ],
+  "Swift.LazyFilterSequence.Iterator" : [
+    "Base"
+  ],
+  "Swift.LazyMapSequence" : [
+    "Base",
+    "Element"
+  ],
+  "Swift.LazyMapSequence.Iterator" : [
+    "Base",
+    "Element"
+  ],
+  "Swift.LazyPrefixWhileSequence" : [
+    "Base"
+  ],
+  "Swift.LazyPrefixWhileSequence.Iterator" : [
+    "Base"
+  ],
+  "Swift.LazySequence" : [
+    "Base"
+  ],
+  "Swift.ManagedBuffer" : [
+    "Header",
+    "Element"
+  ],
+  "Swift.ManagedBufferPointer" : [
+    "Header",
+    "Element"
+  ],
+  "Swift.MemoryLayout" : [
+    "T"
+  ],
+  "Swift.MutableSpan" : [
+    "Element"
+  ],
+  "Swift.Optional" : [
+    "Wrapped"
+  ],
+  "Swift.OutputSpan" : [
+    "Element"
+  ],
+  "Swift.ParseResult" : [
+    "T"
+  ],
+  "Swift.PartialKeyPath" : [
+    "Root"
+  ],
+  "Swift.PartialRangeFrom" : [
+    "Bound"
+  ],
+  "Swift.PartialRangeThrough" : [
+    "Bound"
+  ],
+  "Swift.PartialRangeUpTo" : [
+    "Bound"
+  ],
+  "Swift.PrefixSequence" : [
+    "Base"
+  ],
+  "Swift.PrefixSequence.Iterator.Element" : [
+    "Base"
+  ],
+  "Swift.Range" : [
+    "Bound"
+  ],
+  "Swift.RangeSet" : [
+    "Bound"
+  ],
+  "Swift.ReferenceWritableKeyPath" : [
+    "Root",
+    "Value"
+  ],
+  "Swift.Repeated" : [
+    "Element"
+  ],
+  "Swift.Result" : [
+    "Success",
+    "Failure"
+  ],
+  "Swift.ReversedCollection" : [
+    "Base"
+  ],
+  "Swift.ReversedCollection.Iterator" : [
+    "Base"
+  ],
+  "Swift.SIMD16" : [
+    "Scalar"
+  ],
+  "Swift.SIMD2" : [
+    "Scalar"
+  ],
+  "Swift.SIMD3" : [
+    "Scalar"
+  ],
+  "Swift.SIMD32" : [
+    "Scalar"
+  ],
+  "Swift.SIMD4" : [
+    "Scalar"
+  ],
+  "Swift.SIMD64" : [
+    "Scalar"
+  ],
+  "Swift.SIMD8" : [
+    "Scalar"
+  ],
+  "Swift.SIMDMask" : [
+    "Storage"
+  ],
+  "Swift.SIMDMask.Scalar" : [
+    "Storage"
+  ],
+  "Swift.Set" : [
+    "Element"
+  ],
+  "Swift.Slice" : [
+    "Base"
+  ],
+  "Swift.Span" : [
+    "Element"
+  ],
+  "Swift.StrideThrough" : [
+    "Element"
+  ],
+  "Swift.StrideThroughIterator" : [
+    "Element"
+  ],
+  "Swift.StrideTo" : [
+    "Element"
+  ],
+  "Swift.StrideToIterator" : [
+    "Element"
+  ],
+  "Swift.UnfoldSequence" : [
+    "Element",
+    "State"
+  ],
+  "Swift.Unmanaged" : [
+    "Instance"
+  ],
+  "Swift.UnsafeBufferPointer" : [
+    "Element"
+  ],
+  "Swift.UnsafeBufferPointer.Iterator" : [
+    "Element"
+  ],
+  "Swift.UnsafeMutableBufferPointer" : [
+    "Element"
+  ],
+  "Swift.UnsafeMutablePointer" : [
+    "Pointee"
+  ],
+  "Swift.UnsafePointer" : [
+    "Pointee"
+  ],
+  "Swift.WritableKeyPath" : [
+    "Root",
+    "Value"
+  ],
+  "Swift.Zip2Sequence" : [
+    "Sequence1",
+    "Sequence2"
+  ],
+  "Swift._DictionaryBuilder" : [
+    "Key",
+    "Value"
+  ],
+  "Swift._SetBuilder" : [
+    "Element"
+  ],
+  "Swift._UIntBuffer" : [
+    "Element"
+  ],
+  "Swift._UIntBuffer.Iterator" : [
+    "Element"
+  ]
+}

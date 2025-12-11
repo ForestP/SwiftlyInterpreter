@@ -1,0 +1,302 @@
+{
+  "Foundation.Arithmetic" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.AsyncCharacterSequence" : [
+    "Base"
+  ],
+  "Foundation.AsyncLineSequence" : [
+    "Base"
+  ],
+  "Foundation.AsyncUnicodeScalarSequence" : [
+    "Base"
+  ],
+  "Foundation.AttributedString.Runs.AttributesSlice1.Element" : [
+    "T"
+  ],
+  "Foundation.AttributedString.Runs.AttributesSlice2.Element" : [
+    "T",
+    "U"
+  ],
+  "Foundation.AttributedString.Runs.AttributesSlice3.Element" : [
+    "T",
+    "U",
+    "V"
+  ],
+  "Foundation.AttributedString.Runs.AttributesSlice4.Element" : [
+    "T",
+    "U",
+    "V",
+    "W"
+  ],
+  "Foundation.AttributedString.Runs.AttributesSlice5.Element" : [
+    "T",
+    "U",
+    "V",
+    "W",
+    "X"
+  ],
+  "Foundation.AttributesSlice1" : [
+    "T"
+  ],
+  "Foundation.AttributesSlice2" : [
+    "T",
+    "U"
+  ],
+  "Foundation.AttributesSlice3" : [
+    "T",
+    "U",
+    "V"
+  ],
+  "Foundation.AttributesSlice4" : [
+    "T",
+    "U",
+    "V",
+    "W"
+  ],
+  "Foundation.AttributesSlice5" : [
+    "T",
+    "U",
+    "V",
+    "W",
+    "X"
+  ],
+  "Foundation.BaseMessageIdentifier" : [
+    "MessageType"
+  ],
+  "Foundation.Builder" : [
+    "T"
+  ],
+  "Foundation.ClosedRange" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.CodableConfiguration" : [
+    "T",
+    "ConfigurationProvider"
+  ],
+  "Foundation.CollectionContainsCollection" : [
+    "Base",
+    "Other"
+  ],
+  "Foundation.CollectionIndexSubscript" : [
+    "Wrapped",
+    "Index"
+  ],
+  "Foundation.CollectionRangeSubscript" : [
+    "Wrapped",
+    "Range"
+  ],
+  "Foundation.ComparableComparator" : [
+    "Compared"
+  ],
+  "Foundation.Comparison" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.ComponentParseStrategy" : [
+    "Component"
+  ],
+  "Foundation.Conditional" : [
+    "Test",
+    "If",
+    "Else"
+  ],
+  "Foundation.ConditionalCast" : [
+    "Input",
+    "Desired"
+  ],
+  "Foundation.Conjunction" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.DictionaryKeyDefaultValueSubscript" : [
+    "Wrapped",
+    "Key",
+    "Default"
+  ],
+  "Foundation.DictionaryKeySubscript" : [
+    "Wrapped",
+    "Key",
+    "Value"
+  ],
+  "Foundation.Disjunction" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.Equal" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.Expression" : [
+    "Input",
+    "Output"
+  ],
+  "Foundation.ExpressionEvaluate" : [
+    "Transformation",
+    "Input",
+    "Output"
+  ],
+  "Foundation.Filter" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.FloatDivision" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.FloatingPointFormatStyle" : [
+    "Value"
+  ],
+  "Foundation.FloatingPointParseStrategy" : [
+    "Format"
+  ],
+  "Foundation.ForceCast" : [
+    "Input",
+    "Desired"
+  ],
+  "Foundation.ForcedUnwrap" : [
+    "Inner",
+    "Wrapped"
+  ],
+  "Foundation.IntDivision" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.IntRemainder" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.IntegerFormatStyle" : [
+    "Value"
+  ],
+  "Foundation.IntegerParseStrategy" : [
+    "Format"
+  ],
+  "Foundation.KeyPath" : [
+    "Root",
+    "Output"
+  ],
+  "Foundation.KeyPathComparator" : [
+    "Compared"
+  ],
+  "Foundation.KeyValueObservingPublisher" : [
+    "Subject",
+    "Value"
+  ],
+  "Foundation.ListFormatStyle" : [
+    "Style",
+    "Base"
+  ],
+  "Foundation.Measurement" : [
+    "UnitType"
+  ],
+  "Foundation.MeasurementFormatUnitUsage" : [
+    "UnitType"
+  ],
+  "Foundation.NSKeyValueObservedChange" : [
+    "Value"
+  ],
+  "Foundation.Negation" : [
+    "Wrapped"
+  ],
+  "Foundation.NilCoalesce" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.NilLiteral" : [
+    "Wrapped"
+  ],
+  "Foundation.NotEqual" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.OptionalFlatMap" : [
+    "LHS",
+    "Wrapped",
+    "RHS",
+    "Result"
+  ],
+  "Foundation.ParseStrategy" : [
+    "Format"
+  ],
+  "Foundation.Predicate" : [
+    "Input"
+  ],
+  "Foundation.PredicateEvaluate" : [
+    "Condition",
+    "Input"
+  ],
+  "Foundation.Range" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.RangeExpressionContains" : [
+    "RangeExpression",
+    "Element"
+  ],
+  "Foundation.ScopedAttributeContainer" : [
+    "S"
+  ],
+  "Foundation.SequenceAllSatisfy" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.SequenceContains" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.SequenceContainsWhere" : [
+    "LHS",
+    "RHS"
+  ],
+  "Foundation.SequenceMaximum" : [
+    "Elements"
+  ],
+  "Foundation.SequenceMinimum" : [
+    "Elements"
+  ],
+  "Foundation.SequenceStartsWith" : [
+    "Base",
+    "Prefix"
+  ],
+  "Foundation.SingleAttributeTransformer" : [
+    "T"
+  ],
+  "Foundation.SortDescriptor" : [
+    "Compared"
+  ],
+  "Foundation.StringCaseInsensitiveCompare" : [
+    "Root",
+    "Other"
+  ],
+  "Foundation.StringContainsRegex" : [
+    "Subject",
+    "Regex"
+  ],
+  "Foundation.StringLocalizedCompare" : [
+    "Root",
+    "Other"
+  ],
+  "Foundation.StringLocalizedStandardContains" : [
+    "Root",
+    "Other"
+  ],
+  "Foundation.TypeCheck" : [
+    "Input",
+    "Desired"
+  ],
+  "Foundation.UnaryMinus" : [
+    "Wrapped"
+  ],
+  "Foundation.Value" : [
+    "Output"
+  ],
+  "Foundation.Variable" : [
+    "Output"
+  ],
+  "Swift.Optional" : [
+    "Value"
+  ]
+}

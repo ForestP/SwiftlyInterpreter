@@ -1,0 +1,256 @@
+{
+  "types": [
+    "Swift.Array",
+    "Swift.Array<Element>",
+    "Swift.Array<Swift.Bool>",
+    "Swift.Array<Swift.Double>",
+    "Swift.Array<Swift.Int>",
+    "Swift.Array<Swift.String>",
+    "Swift.Bool",
+    "Swift.Dictionary",
+    "Swift.Dictionary<Key,Value>",
+    "Swift.Dictionary<Swift.String,Foundation.Data>",
+    "Swift.Dictionary<Swift.String,Swift.Bool>",
+    "Swift.Dictionary<Swift.String,Swift.Double>",
+    "Swift.Dictionary<Swift.String,Swift.Int>",
+    "Swift.Dictionary<Swift.String,Swift.String>",
+    "Swift.Double",
+    "Swift.Int",
+    "Swift.Optional",
+    "Swift.Optional<Wrapped>",
+    "Swift.Optional<Swift.Bool>",
+    "Swift.Optional<Swift.Double>",
+    "Swift.Optional<Swift.Int>",
+    "Swift.Optional<Swift.String>",
+    "Swift.Set",
+    "Swift.Set<Element>",
+    "Swift.Set<Swift.Bool>",
+    "Swift.Set<Swift.Double>",
+    "Swift.Set<Swift.Int>",
+    "Swift.Set<Swift.String>",
+    "Swift.String"
+  ],
+  "selectors": {
+    "Swift.Array": [
+      "map(_:)",
+      "filter(_:)",
+      "contains(where:)",
+      "append(_:)",
+      "remove(at:)",
+      "removeLast()",
+      "popLast()",
+      "firstIndex(of:)",
+      "contains(_:)"
+    ],
+    "Swift.Array<Element>": [
+      "map(_:)",
+      "filter(_:)",
+      "contains(where:)",
+      "append(_:)",
+      "remove(at:)",
+      "removeLast()",
+      "popLast()",
+      "firstIndex(of:)",
+      "contains(_:)"
+    ],
+    "Swift.Array<Swift.Int>": [
+      "map(_:)",
+      "filter(_:)",
+      "contains(where:)",
+      "append(_:)",
+      "remove(at:)",
+      "removeLast()",
+      "popLast()",
+      "firstIndex(of:)",
+      "contains(_:)"
+    ],
+    "Swift.Array<Swift.Bool>": [
+      "map(_:)",
+      "filter(_:)",
+      "contains(where:)",
+      "append(_:)",
+      "remove(at:)",
+      "removeLast()",
+      "popLast()",
+      "firstIndex(of:)",
+      "contains(_:)"
+    ],
+    "Swift.Array<Swift.String>": [
+      "map(_:)",
+      "filter(_:)",
+      "contains(where:)",
+      "append(_:)",
+      "remove(at:)",
+      "removeLast()",
+      "popLast()",
+      "firstIndex(of:)",
+      "contains(_:)"
+    ],
+    "Swift.Array<Swift.Double>": [
+      "map(_:)",
+      "filter(_:)",
+      "contains(where:)",
+      "append(_:)",
+      "remove(at:)",
+      "removeLast()",
+      "popLast()",
+      "firstIndex(of:)",
+      "contains(_:)"
+    ],
+    "Swift.Set": [
+      "contains(_:)",
+      "insert(_:)",
+      "union(_:)",
+      "intersection(_:)",
+      "subtracting(_:)",
+      "formUnion(_:)",
+      "isSubset(of:)",
+      "isSuperset(of:)",
+      "remove(_:)"
+    ],
+    "Swift.Set<Element>": [
+      "contains(_:)",
+      "insert(_:)",
+      "union(_:)",
+      "intersection(_:)",
+      "subtracting(_:)",
+      "formUnion(_:)",
+      "isSubset(of:)",
+      "isSuperset(of:)",
+      "remove(_:)"
+    ],
+    "Swift.Set<Swift.Int>": [
+      "contains(_:)",
+      "insert(_:)",
+      "union(_:)",
+      "intersection(_:)",
+      "subtracting(_:)",
+      "formUnion(_:)",
+      "isSubset(of:)",
+      "isSuperset(of:)",
+      "remove(_:)"
+    ],
+    "Swift.Set<Swift.Bool>": [
+      "contains(_:)",
+      "insert(_:)",
+      "union(_:)",
+      "intersection(_:)",
+      "subtracting(_:)",
+      "formUnion(_:)",
+      "isSubset(of:)",
+      "isSuperset(of:)",
+      "remove(_:)"
+    ],
+    "Swift.Set<Swift.String>": [
+      "contains(_:)",
+      "insert(_:)",
+      "union(_:)",
+      "intersection(_:)",
+      "subtracting(_:)",
+      "formUnion(_:)",
+      "isSubset(of:)",
+      "isSuperset(of:)",
+      "remove(_:)"
+    ],
+    "Swift.Set<Swift.Double>": [
+      "contains(_:)",
+      "insert(_:)",
+      "union(_:)",
+      "intersection(_:)",
+      "subtracting(_:)",
+      "formUnion(_:)",
+      "isSubset(of:)",
+      "isSuperset(of:)",
+      "remove(_:)"
+    ],
+    "Swift.Optional": [
+      "map(_:)",
+      "flatMap(_:)",
+      "filter(_:)"
+    ],
+    "Swift.Optional<Swift.Int>": [
+      "map(_:)",
+      "flatMap(_:)",
+      "filter(_:)"
+    ],
+    "Swift.Optional<Swift.Bool>": [
+      "map(_:)",
+      "flatMap(_:)",
+      "filter(_:)"
+    ],
+    "Swift.Optional<Swift.String>": [
+      "map(_:)",
+      "flatMap(_:)",
+      "filter(_:)"
+    ],
+    "Swift.Optional<Swift.Double>": [
+      "map(_:)",
+      "flatMap(_:)",
+      "filter(_:)"
+    ],
+    "Swift.Optional<Wrapped>": [
+      "map(_:)",
+      "flatMap(_:)",
+      "filter(_:)"
+    ],
+    "Swift.Dictionary": [
+      "merge(_:uniquingKeysWith:)",
+      "merging(_:uniquingKeysWith:)",
+      "updateValue(_:forKey:)",
+      "removeValue(forKey:)",
+      "removeAll(keepingCapacity:)"
+    ],
+    "Swift.Dictionary<Key,Value>": [
+      "merge(_:uniquingKeysWith:)",
+      "merging(_:uniquingKeysWith:)",
+      "updateValue(_:forKey:)",
+      "removeValue(forKey:)",
+      "removeAll(keepingCapacity:)"
+    ],
+    "Swift.Dictionary<Swift.String,Swift.Int>": [
+      "merge(_:uniquingKeysWith:)",
+      "merging(_:uniquingKeysWith:)",
+      "updateValue(_:forKey:)",
+      "removeValue(forKey:)",
+      "removeAll(keepingCapacity:)"
+    ],
+    "Swift.Dictionary<Swift.String,Swift.Bool>": [
+      "merge(_:uniquingKeysWith:)",
+      "merging(_:uniquingKeysWith:)",
+      "updateValue(_:forKey:)",
+      "removeValue(forKey:)",
+      "removeAll(keepingCapacity:)"
+    ],
+    "Swift.Dictionary<Swift.String,Swift.Double>": [
+      "merge(_:uniquingKeysWith:)",
+      "merging(_:uniquingKeysWith:)",
+      "updateValue(_:forKey:)",
+      "removeValue(forKey:)",
+      "removeAll(keepingCapacity:)"
+    ],
+    "Swift.Dictionary<Swift.String,Foundation.Data>": [
+      "merge(_:uniquingKeysWith:)",
+      "merging(_:uniquingKeysWith:)",
+      "updateValue(_:forKey:)",
+      "removeValue(forKey:)",
+      "removeAll(keepingCapacity:)"
+    ],
+    "Swift.Dictionary<Swift.String,Swift.String>": [
+      "merge(_:uniquingKeysWith:)",
+      "merging(_:uniquingKeysWith:)",
+      "updateValue(_:forKey:)",
+      "removeValue(forKey:)",
+      "removeAll(keepingCapacity:)",
+      "values",
+      "keys"
+    ],
+    "Swift.String": [
+      "uppercased()",
+      "lowercased()",
+      "trimmingCharacters(in:)",
+      "hasPrefix(_:)",
+      "hasSuffix(_:)",
+      "contains(_:)"
+    ]
+  }
+}

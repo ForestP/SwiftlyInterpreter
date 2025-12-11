@@ -1,0 +1,44 @@
+{
+  "configurations": [
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:SwiftlyInterpreter}/Swiftly",
+      "name": "Debug SwiftlyExecutable (Swiftly)",
+      "target": "SwiftlyExecutable",
+      "configuration": "debug",
+      "preLaunchTask": "swift: Build Debug SwiftlyExecutable (Swiftly)"
+    },
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:SwiftlyInterpreter}/Swiftly",
+      "name": "Release SwiftlyExecutable (Swiftly)",
+      "target": "SwiftlyExecutable",
+      "configuration": "release",
+      "preLaunchTask": "swift: Build Release SwiftlyExecutable (Swiftly)"
+    },
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:SwiftlyInterpreter}/BridgeGenCLI",
+      "name": "Debug bridgegen (BridgeGenCLI)",
+      "target": "bridgegen",
+      "configuration": "debug",
+      "preLaunchTask": "swift: Build Debug bridgegen (BridgeGenCLI)"
+    },
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:SwiftlyInterpreter}/BridgeGenCLI",
+      "name": "Release bridgegen (BridgeGenCLI)",
+      "target": "bridgegen",
+      "configuration": "release",
+      "preLaunchTask": "swift: Build Release bridgegen (BridgeGenCLI)"
+    }
+  ]
+}

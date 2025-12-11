@@ -1,0 +1,12 @@
+{
+  "types": [
+    "Foundation.Date",
+    "Foundation.TimeInterval",
+    "Foundation.DateComponents",
+    "Foundation.TimeZone",
+    "Foundation.Locale",
+    "Foundation.Data",
+    "Foundation.Notification",
+    "Foundation.NotificationCenter"
+  ]
+}

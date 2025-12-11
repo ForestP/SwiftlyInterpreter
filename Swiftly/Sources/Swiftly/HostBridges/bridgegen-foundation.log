@@ -1,0 +1,217 @@
+Parse error: Failed to parse type for parameter block
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter block
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter block
+Parse error: Failed to parse type for parameter variable
+Parse error: Failed to parse type for parameter variable
+Parse error: Failed to parse type for parameter input
+Parse error: Failed to parse type for parameter input
+Parse error: Failed to parse type for parameter variable
+Parse error: Failed to parse type for parameter variable
+Parse error: Failed to parse type for parameter input
+Parse error: Failed to parse type for parameter input
+Parse error: Failed to parse type for parameter variable
+Parse error: Failed to parse type for parameter variable
+Parse error: Failed to parse type for parameter input
+Parse error: Failed to parse type for parameter input
+Parse error: Failed to parse type for parameter variable
+Parse error: Failed to parse type for parameter variable
+Parse error: Failed to parse type for parameter input
+Parse error: Failed to parse type for parameter input
+Parse error: unexpected token '&' in type expression
+Parse error: Failed to parse type for parameter builder
+Parse error: Failed to parse type for parameter builder
+Parse error: Failed to parse type for parameter value
+Parse error: unexpected token '&' in type expression
+Parse error: unexpected token '&' in type expression
+Parse error: unexpected token '&' in type expression
+Parse error: Failed to parse type for parameter object
+Parse error: Failed to parse type for parameter handler
+Parse error: Failed to parse type for parameter handler
+Parse error: Failed to parse type for parameter handler
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter observer
+Parse error: Failed to parse type for parameter observer
+Parse error: Failed to parse type for parameter observer
+Unsupported: Skipping Data.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged
+Unsupported: Skipping Data.withUnsafeBytes(_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping Data.withUnsafeMutableBytes(_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping Data._conditionallyBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Data> is not yet bridged
+Unsupported: Skipping Data._forceBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Data> is not yet bridged
+Unsupported: Skipping Date.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged
+Unsupported: Skipping Date.+=(lhs:rhs:): inout parameter 'lhs' of type Foundation.Date is not yet bridged
+Unsupported: Skipping Date.-=(lhs:rhs:): inout parameter 'lhs' of type Foundation.Date is not yet bridged
+Unsupported: Skipping Date._conditionallyBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Date> is not yet bridged
+Unsupported: Skipping Date._forceBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Date> is not yet bridged
+Unsupported: Skipping DateComponents.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged
+Unsupported: Skipping DateComponents._conditionallyBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.DateComponents> is not yet bridged
+Unsupported: Skipping DateComponents._forceBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.DateComponents> is not yet bridged
+Unsupported: Skipping Locale.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged
+Unsupported: Skipping Locale._conditionallyBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Locale> is not yet bridged
+Unsupported: Skipping Locale._forceBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Locale> is not yet bridged
+Unsupported: Skipping Notification.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged
+Unsupported: Skipping Notification._conditionallyBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Notification> is not yet bridged
+Unsupported: Skipping Notification._forceBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Notification> is not yet bridged
+Unsupported: Skipping NotificationCenter.addObserver(of:for:using:): closure parameter 'observer' is not yet bridged
+Unsupported: Skipping NotificationCenter.addObserver(of:for:using:): closure parameter 'observer' is not yet bridged
+Unsupported: Skipping NotificationCenter.addObserver(of:for:using:): closure parameter 'observer' is not yet bridged
+Unsupported: Skipping TimeZone.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged
+Unsupported: Skipping TimeZone._conditionallyBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.TimeZone> is not yet bridged
+Unsupported: Skipping TimeZone._forceBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.TimeZone> is not yet bridged
+Unsupported: Deduplicated duplicate method signature: NotificationCenter.post(_:)
+Unsupported: Deduplicated duplicate method signature: NotificationCenter.post(_:subject:)
+Unsupported: Skipping Data.init(_:): constraints have no valid specialization
+Unsupported: Skipping Data.init(bytes:): constraints have no valid specialization
+Unsupported: Skipping Data.firstRange(of:): constraints have no valid specialization
+Unsupported: Skipping Data.firstRange(of:in:): constraints have no valid specialization
+Unsupported: Skipping Data.lastRange(of:): constraints have no valid specialization
+Unsupported: Skipping Data.lastRange(of:in:): constraints have no valid specialization
+Unsupported: Skipping Date.init(_:strategy:): constraints have no valid specialization
+Unsupported: Skipping Date.formatted(_:): constraints have no valid specialization
+Unsupported: Skipping DateComponents.init(_:strategy:): constraints have no valid specialization
+Unsupported: Skipping DateComponents.formatted(_:): constraints have no valid specialization
+Unsupported: Skipping NotificationCenter.messages(of:for:bufferSize:): constraints have no valid specialization
+Unsupported: Skipping NotificationCenter.messages(of:for:bufferSize:): constraints have no valid specialization
+Unsupported: Skipping NotificationCenter.messages(of:for:bufferSize:): constraints have no valid specialization
+Unsupported: Skipping NotificationCenter.post(_:): constraints have no valid specialization
+Unsupported: Skipping NotificationCenter.post(_:subject:): constraints have no valid specialization
+Unsupported: Skipping property Foundation.Data.bytes: references unsupported host type Swift.RawSpan
+Unsupported: Skipping property Foundation.Data.mutableBytes: references unsupported host type Swift.MutableRawSpan
+Unsupported: Skipping property Foundation.Data.mutableSpan: references unsupported host type Swift.MutableSpan<Swift.UInt8>
+Unsupported: Skipping property Foundation.Data.span: references unsupported host type Swift.Span<Swift.UInt8>
+Unsupported: swift-format not found; skipped formatting
+Encountered 37 error(s). See diagnostics above.
+[COLLECT] Collected 3037 methods, 2379 properties
+[COLLECT] Array-related types from methods: ["Foundation.NSArray", "Swift.Array"]
+[FLATTEN] Swift.Array conforms to: ["Foundation.ContiguousBytes", "Foundation.DataProtocol", "Foundation.DataProtocol", "Foundation.DecodableWithConfiguration", "Foundation.EncodableWithConfiguration", "Foundation.MutableDataProtocol", "Swift.CVarArg", "Swift.MutableCollection", "Swift.RandomAccessCollection", "Swift.RangeReplaceableCollection", "Swift._ObjectiveCBridgeable"]
+[DUMP] Dumping surface with 592 types
+[DUMP] Array-related types: ["Foundation.NSArray", "Swift.Array", "Swift.ArraySlice", "Swift.ContiguousArray"]
+[DUMP] Found Swift.Array type: Swift.Array
+[DUMP] Members count: 17
+[DUMP] Has map: false
+Generated 8 file(s) under /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges:
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/FoundationHostBridges.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Foundation_u002E_Data+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Foundation_u002E_Date+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Foundation_u002E_DateComponents+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Foundation_u002E_Locale+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Foundation_u002E_Notification+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Foundation_u002E_NotificationCenter+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Foundation_u002E_TimeZone+Host.generated.swift
+
+Resolved typealiases:
+  Foundation.AllCases -> Swift.Array<Foundation.AttributedString.WritingDirection> #6443
+  Foundation.ArrayLiteralElement -> Foundation.AttributedString.InterpolationOptions #21951
+  Foundation.AsyncIterator -> Foundation.FileHandle.AsyncBytes.Iterator #20655
+  Foundation.Attribution -> Foundation.NSURLRequest.Attribution #20473
+  Foundation.Base64DecodingOptions -> Foundation.NSData.Base64DecodingOptions #10211
+  Foundation.Base64EncodingOptions -> Foundation.NSData.Base64EncodingOptions #10210
+  Foundation.BookmarkCreationOptions -> Foundation.NSURL.BookmarkCreationOptions #16261
+  Foundation.BookmarkResolutionOptions -> Foundation.NSURL.BookmarkResolutionOptions #16260
+  Foundation.BooleanLiteralType -> Swift.Bool #23715
+  Foundation.CachePolicy -> Foundation.NSURLRequest.CachePolicy #20470
+  Foundation.CalculationError -> Foundation.NSDecimalNumber.CalculationError #10325
+  Foundation.CapitalizationContext -> Foundation.FormatStyleCapitalizationContext #3936
+  Foundation.CodableAttributedStringKey -> Foundation.DecodableAttributedStringKey #5315
+  Foundation.CodableWithConfiguration -> Foundation.DecodableWithConfiguration #17091
+  Foundation.Code -> Darwin.MachErrorCode #17594
+  Foundation.CompareOptions -> Foundation.NSString.CompareOptions #15482
+  Foundation.Compared -> Swift.Never #17488
+  Foundation.Configuration -> Foundation.CurrencyFormatStyleConfiguration #3457
+  Foundation.DateStyle -> Foundation.Date.FormatStyle.DateStyle #2846
+  Foundation.DecimalSeparatorDisplayStrategy -> Foundation.NumberFormatStyleConfiguration.DecimalSeparatorDisplayStrategy #3881
+  Foundation.DecodingConfiguration -> Element.DecodingConfiguration #17190
+  Foundation.Element -> Swift.UnicodeScalar #22897
+  Foundation.EncodingConfiguration -> Element.EncodingConfiguration #17184
+  Foundation.EncodingConversionOptions -> Foundation.NSString.EncodingConversionOptions #15452
+  Foundation.EnumerationOptions -> Foundation.NSString.EnumerationOptions #15453
+  Foundation.ErrorPointer -> Swift.Optional<Swift.AutoreleasingUnsafeMutablePointer<Swift.Optional<Foundation.NSError>>> #20159
+  Foundation.ExtendedGraphemeClusterLiteralType -> Swift.String #22216
+  Foundation.Failure -> Swift.Never #22796
+  Foundation.Field -> Foundation.Date.ComponentsFormatStyle.Field #1810
+  Foundation.FloatLiteralType -> Swift.Double #23717
+  Foundation.FormatInput -> Swift.Range<Foundation.Date> #23798
+  Foundation.FormatOutput -> Swift.String #23800
+  Foundation.Grouping -> Foundation.NumberFormatStyleConfiguration.Grouping #3879
+  Foundation.Index -> Dispatch.DispatchData.Index #20723
+  Foundation.Indices -> Swift.Range<Dispatch.DispatchData.Index> #20725
+  Foundation.Input -> Foundation.Data #17068
+  Foundation.IntegerLiteralType -> Swift.Int #23719
+  Foundation.Iterator -> Foundation.NSIndexSetIterator #22660
+  Foundation.Key -> Swift.Any #21323
+  Foundation.Kind -> Foundation.NSKeyValueChange #164
+  Foundation.LanguageDirection -> Foundation.NSLocale.LanguageDirection #12053
+  Foundation.Magnitude -> Foundation.TimeInterval #19489
+  Foundation.MutableURLRequest -> Foundation.NSMutableURLRequest #20466
+  Foundation.NSErrorPointer -> Swift.Optional<Swift.AutoreleasingUnsafeMutablePointer<Swift.Optional<Foundation.NSError>>> #20158
+  Foundation.Name -> Foundation.NSNotification.Name #20084
+  Foundation.NameStyle -> Foundation.NSTimeZone.NameStyle #15582
+  Foundation.NetworkServiceType -> Foundation.NSURLRequest.NetworkServiceType #20471
+  Foundation.Notation -> Foundation.NumberFormatStyleConfiguration.Notation #3884
+  Foundation.ObjectiveCValue -> Foundation.NSString #6420
+  Foundation.ObservableObject -> Combine.ObservableObject #200
+  Foundation.Output -> Foundation.Date #22795
+  Foundation.ParseInput -> Swift.String #23375
+  Foundation.ParseOutput -> Foundation.PersonNameComponents #23377
+  Foundation.Precision -> Foundation.NumberFormatStyleConfiguration.Precision #3880
+  Foundation.Presentation -> Foundation.Date.RelativeFormatStyle.Presentation #1693
+  Foundation.PropertyListFormat -> Foundation.PropertyListSerialization.PropertyListFormat #15335
+  Foundation.Published -> Combine.Published #198
+  Foundation.RawValue -> Swift.Int #23332
+  Foundation.ReadingOptions -> Foundation.NSData.ReadingOptions #9784
+  Foundation.ReferenceType -> Foundation.NSData #21194
+  Foundation.RegexOutput -> _StringProcessing.AnyRegexOutput #14874
+  Foundation.Regions -> Swift.Array<Dispatch.DispatchData.Region> #20737
+  Foundation.RoundingMode -> Foundation.NSDecimalNumber.RoundingMode #10324
+  Foundation.RoundingRule -> Foundation.NumberFormatStyleConfiguration.RoundingRule #3882
+  Foundation.SearchOptions -> Foundation.NSData.SearchOptions #10209
+  Foundation.Strategy -> Foundation.PersonNameComponents.ParseStrategy #23399
+  Foundation.Stride -> Foundation.TimeInterval #17284
+  Foundation.StringInterpolation -> Swift.String.LocalizationValue.StringInterpolation #22218
+  Foundation.StringLiteralType -> Swift.String #22220
+  Foundation.Style -> Foundation.ByteCountFormatStyle.Style #19600
+  Foundation.SubSequence -> Swift.Slice<Dispatch.DispatchData.Region> #20731
+  Foundation.Subject -> Foundation.NSExtensionContext #19283
+  Foundation.Subsequence -> Foundation.AttributedString.UTF16View #1597
+  Foundation.Symbol -> Foundation.Date.FormatStyle.Symbol #1784
+  Foundation.TimeStyle -> Foundation.Date.FormatStyle.TimeStyle #2847
+  Foundation.UnicodeScalarLiteralType -> Swift.String #22222
+  Foundation.Units -> Foundation.ByteCountFormatStyle.Units #19601
+  Foundation.UnitsStyle -> Foundation.Date.RelativeFormatStyle.UnitsStyle #1694
+  Foundation.Value -> Swift.Any #21325
+  Foundation.WritingOptions -> Foundation.NSData.WritingOptions #9785
+  Foundation._Arg -> CoreFoundation.CGFloat #22162
+  Foundation._ErrorType -> Foundation.URLError #21412
+  Foundation._FileReferenceLiteralType -> Foundation.URL #16672
+  Foundation._ObjectiveCType -> Foundation.NSNumber #23707
+  Foundation.uuid_string_t -> (Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8) #17510
+  Foundation.uuid_t -> (Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8) #17509
+
+Specialization sources:
+  Foundation.Data:
+    method firstRange(of:): source=none, thunks=0
+    method firstRange(of:in:): source=none, thunks=0
+    method init(_:): source=none, thunks=0
+    method init(buffer:): source=auto.palette.standard, thunks=6
+    method init(bytes:): source=none, thunks=0
+    method lastRange(of:): source=none, thunks=0
+    method lastRange(of:in:): source=none, thunks=0
+  Foundation.Date:
+    method formatted(_:): source=none, thunks=0
+    method init(_:strategy:): source=none, thunks=0
+  Foundation.DateComponents:
+    method formatted(_:): source=none, thunks=0
+    method init(_:strategy:): source=none, thunks=0
+  Foundation.NotificationCenter:
+    method messages(of:for:bufferSize:): source=none, thunks=0
+    method messages(of:for:bufferSize:): source=none, thunks=0
+    method messages(of:for:bufferSize:): source=none, thunks=0
+    method post(_:): source=none, thunks=0
+    method post(_:subject:): source=none, thunks=0
+
+HostSurfaceCollector fallback placeholder hits: 0
+HostSurfaceResolver placeholder drop hits: 0
+
+Warnings emitted: 47 (see stderr for details)

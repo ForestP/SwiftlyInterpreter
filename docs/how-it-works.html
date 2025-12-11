@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>How It Works — Swift in Your Browser</title>
+    <meta name="description" content="We run Swift in your browser by compiling a small interpreter to WebAssembly. Your code stays on the page; no full Swift toolchain required.">
+    <style>
+      :root {
+        --bg: #0b1020;
+        --panel: #11162a;
+        --text: #e8eefc;
+        --muted: #a9b4ce;
+        --accent: #6aa2ff;
+        --accent-2: #8cf0ff;
+        --ring: rgba(138,180,255,0.35);
+      }
+      * { box-sizing: border-box; }
+      html, body { margin: 0; height: 100%; background: var(--bg); color: var(--text); font-family: ui-sans-serif, -apple-system, Segoe UI, Roboto, Inter, "Helvetica Neue", Arial, Noto Sans, "Apple Color Emoji", "Segoe UI Emoji"; }
+      a { color: var(--accent); text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      .hero {
+        padding: 64px 24px;
+        background: radial-gradient(1200px 600px at 20% -10%, rgba(106,162,255,0.25), transparent 60%),
+                   radial-gradient(1000px 600px at 100% 0%, rgba(140,240,255,0.18), transparent 55%);
+        border-bottom: 1px solid rgba(255,255,255,0.06);
+      }
+      .wrap { max-width: 960px; margin: 0 auto; }
+      .title { font-size: clamp(28px, 5vw, 40px); line-height: 1.15; margin: 0 0 12px; letter-spacing: 0.2px; }
+      .subtitle { color: var(--muted); margin: 0; font-size: 18px; }
+      .content { padding: 32px 24px 80px; }
+      .cards { display: grid; grid-template-columns: 1fr; gap: 16px; margin-top: 24px; }
+      @media (min-width: 820px) { .cards { grid-template-columns: repeat(3, 1fr); } }
+      .card {
+        background: linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.02));
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 14px;
+        padding: 18px 16px;
+        backdrop-filter: blur(8px);
+      }
+      .card h3 { margin: 0 0 8px; font-size: 18px; }
+      .card p { margin: 0; color: var(--muted); font-size: 14.5px; line-height: 1.55; }
+      .section { margin-top: 40px; }
+      .section h2 { font-size: 20px; margin: 0 0 12px; }
+      .bullets { margin: 0; padding-left: 18px; color: var(--muted); line-height: 1.6; }
+      .badge { display: inline-block; font-size: 12px; color: var(--accent-2); border: 1px solid rgba(140,240,255,0.4); padding: 3px 8px; border-radius: 999px; margin-left: 8px; }
+      .note { color: var(--muted); font-size: 14px; }
+      .panel { background: var(--panel); border: 1px solid rgba(255,255,255,0.06); border-radius: 14px; padding: 16px; }
+    </style>
+  </head>
+  <body>
+    <header class="hero">
+      <div class="wrap">
+        <h1 class="title">Swift in Your Browser — No Toolchain Required</h1>
+        <p class="subtitle">We compile a small Swift interpreter to WebAssembly so you can write and run Swift client‑side. No full Swift compiler is bundled, and your code never leaves the page.</p>
+      </div>
+    </header>
+
+    <main class="content">
+      <div class="wrap">
+        <div class="cards">
+          <div class="card">
+            <h3>Interpreter, Not a Full Toolchain</h3>
+            <p>
+              The experience feels like Swift, but under the hood it’s an interpreter: a lightweight front‑end processes your code and a virtual machine evaluates it inside a WebAssembly module.
+            </p>
+          </div>
+          <div class="card">
+            <h3>Private by Default</h3>
+            <p>
+              Your code runs locally in the browser sandbox. There’s no server round‑trip or remote compilation.
+            </p>
+          </div>
+          <div class="card">
+            <h3>Fast Startup</h3>
+            <p>
+              The WebAssembly payload is small and quick to load — instant run without installing a compiler.
+            </p>
+          </div>
+        </div>
+
+        <section class="section">
+          <h2>How It Works<span class="badge">High‑Level</span></h2>
+          <div class="panel">
+            <ol class="bullets">
+              <li><strong>You write Swift</strong> in the editor. When you press Run, your source stays in the browser.</li>
+              <li>Our <strong>lightweight compiler front‑end</strong> parses the code into an abstract syntax tree and lowers it to an <strong>intermediary format</strong> designed for fast evaluation.</li>
+              <li>A small <strong>virtual machine</strong> inside the WebAssembly module <strong>interprets</strong> that intermediary format step‑by‑step and produces results.</li>
+              <li>A carefully <strong>allowlisted host bridge</strong> lets your program do safe things (like print output) without exposing the broader environment.</li>
+            </ol>
+          </div>
+        </section>
+
+        <section class="section">
+          <h2>What You Get</h2>
+          <ul class="bullets">
+            <li>Core Swift language features: functions, closures, control flow, optionals, collections, string interpolation, and more.</li>
+            <li>Consistent behavior across platforms: the interpreter executes deterministically in the browser sandbox.</li>
+            <li>Small download, instant feedback: no native compiler, no server dependency.</li>
+          </ul>
+        </section>
+
+        <section class="section">
+          <h2>Performance & Safety</h2>
+          <ul class="bullets">
+            <li>Optimized interpreter internals (like slot‑based locals and specialization strategies) keep evaluation snappy.</li>
+            <li>Runs entirely in a WebAssembly sandbox; your code and data remain in the page.</li>
+          </ul>
+          <p class="note">This is intentionally an interpreter, not native code generation. That’s how we achieve portability, safety, and instant startup without packaging the full Swift compiler.</p>
+        </section>
+
+      </div>
+    </main>
+  </body>
+  </html>
+

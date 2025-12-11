@@ -1,0 +1,66 @@
+{
+  "configurations" : [
+    {
+      "id" : "C33B2139-1C26-4BC8-B793-72C98802CE54",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:..\/InterpreterModels",
+        "identifier" : "InterpreterModelsTests",
+        "name" : "InterpreterModelsTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "BridgeGenCLITests",
+        "name" : "BridgeGenCLITests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/IntegrationTest",
+        "identifier" : "IntegrationTestTests",
+        "name" : "IntegrationTestTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/InterpreterVM",
+        "identifier" : "InterpreterVMTests",
+        "name" : "InterpreterVMTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/InterpreterCompiler",
+        "identifier" : "InterpreterCompilerTests",
+        "name" : "InterpreterCompilerTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/HostSurfaceKit",
+        "identifier" : "HostSurfaceKitTests",
+        "name" : "HostSurfaceKitTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/HostCodegenCore",
+        "identifier" : "HostCodegenCoreTests",
+        "name" : "HostCodegenCoreTests"
+      }
+    }
+  ],
+  "version" : 1
+}

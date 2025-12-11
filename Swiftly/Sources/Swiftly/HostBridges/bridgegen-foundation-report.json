@@ -1,0 +1,3832 @@
+{
+  "diagnostics" : [
+    "Parse error: Failed to parse type for parameter block",
+    "Parse error: Failed to parse type for parameter body",
+    "Parse error: Failed to parse type for parameter block",
+    "Parse error: Failed to parse type for parameter body",
+    "Parse error: Failed to parse type for parameter block",
+    "Parse error: Failed to parse type for parameter variable",
+    "Parse error: Failed to parse type for parameter variable",
+    "Parse error: Failed to parse type for parameter input",
+    "Parse error: Failed to parse type for parameter input",
+    "Parse error: Failed to parse type for parameter variable",
+    "Parse error: Failed to parse type for parameter variable",
+    "Parse error: Failed to parse type for parameter input",
+    "Parse error: Failed to parse type for parameter input",
+    "Parse error: Failed to parse type for parameter variable",
+    "Parse error: Failed to parse type for parameter variable",
+    "Parse error: Failed to parse type for parameter input",
+    "Parse error: Failed to parse type for parameter input",
+    "Parse error: Failed to parse type for parameter variable",
+    "Parse error: Failed to parse type for parameter variable",
+    "Parse error: Failed to parse type for parameter input",
+    "Parse error: Failed to parse type for parameter input",
+    "Parse error: unexpected token '&' in type expression",
+    "Parse error: Failed to parse type for parameter builder",
+    "Parse error: Failed to parse type for parameter builder",
+    "Parse error: Failed to parse type for parameter value",
+    "Parse error: unexpected token '&' in type expression",
+    "Parse error: unexpected token '&' in type expression",
+    "Parse error: unexpected token '&' in type expression",
+    "Parse error: Failed to parse type for parameter object",
+    "Parse error: Failed to parse type for parameter handler",
+    "Parse error: Failed to parse type for parameter handler",
+    "Parse error: Failed to parse type for parameter handler",
+    "Parse error: Failed to parse type for parameter body",
+    "Parse error: Failed to parse type for parameter body",
+    "Parse error: Failed to parse type for parameter observer",
+    "Parse error: Failed to parse type for parameter observer",
+    "Parse error: Failed to parse type for parameter observer",
+    "Unsupported: Skipping Data.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged",
+    "Unsupported: Skipping Data.withUnsafeBytes(_:): closure parameter 'body' is not yet bridged",
+    "Unsupported: Skipping Data.withUnsafeMutableBytes(_:): closure parameter 'body' is not yet bridged",
+    "Unsupported: Skipping Data._conditionallyBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Data> is not yet bridged",
+    "Unsupported: Skipping Data._forceBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Data> is not yet bridged",
+    "Unsupported: Skipping Date.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged",
+    "Unsupported: Skipping Date.+=(lhs:rhs:): inout parameter 'lhs' of type Foundation.Date is not yet bridged",
+    "Unsupported: Skipping Date.-=(lhs:rhs:): inout parameter 'lhs' of type Foundation.Date is not yet bridged",
+    "Unsupported: Skipping Date._conditionallyBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Date> is not yet bridged",
+    "Unsupported: Skipping Date._forceBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Date> is not yet bridged",
+    "Unsupported: Skipping DateComponents.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged",
+    "Unsupported: Skipping DateComponents._conditionallyBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.DateComponents> is not yet bridged",
+    "Unsupported: Skipping DateComponents._forceBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.DateComponents> is not yet bridged",
+    "Unsupported: Skipping Locale.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged",
+    "Unsupported: Skipping Locale._conditionallyBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Locale> is not yet bridged",
+    "Unsupported: Skipping Locale._forceBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Locale> is not yet bridged",
+    "Unsupported: Skipping Notification.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged",
+    "Unsupported: Skipping Notification._conditionallyBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Notification> is not yet bridged",
+    "Unsupported: Skipping Notification._forceBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.Notification> is not yet bridged",
+    "Unsupported: Skipping NotificationCenter.addObserver(of:for:using:): closure parameter 'observer' is not yet bridged",
+    "Unsupported: Skipping NotificationCenter.addObserver(of:for:using:): closure parameter 'observer' is not yet bridged",
+    "Unsupported: Skipping NotificationCenter.addObserver(of:for:using:): closure parameter 'observer' is not yet bridged",
+    "Unsupported: Skipping TimeZone.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged",
+    "Unsupported: Skipping TimeZone._conditionallyBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.TimeZone> is not yet bridged",
+    "Unsupported: Skipping TimeZone._forceBridgeFromObjectiveC(_:result:): inout parameter 'result' of type Swift.Optional<Foundation.TimeZone> is not yet bridged",
+    "Unsupported: Deduplicated duplicate method signature: NotificationCenter.post(_:)",
+    "Unsupported: Deduplicated duplicate method signature: NotificationCenter.post(_:subject:)",
+    "Unsupported: Skipping Data.init(_:): constraints have no valid specialization",
+    "Unsupported: Skipping Data.init(bytes:): constraints have no valid specialization",
+    "Unsupported: Skipping Data.firstRange(of:): constraints have no valid specialization",
+    "Unsupported: Skipping Data.firstRange(of:in:): constraints have no valid specialization",
+    "Unsupported: Skipping Data.lastRange(of:): constraints have no valid specialization",
+    "Unsupported: Skipping Data.lastRange(of:in:): constraints have no valid specialization",
+    "Unsupported: Skipping Date.init(_:strategy:): constraints have no valid specialization",
+    "Unsupported: Skipping Date.formatted(_:): constraints have no valid specialization",
+    "Unsupported: Skipping DateComponents.init(_:strategy:): constraints have no valid specialization",
+    "Unsupported: Skipping DateComponents.formatted(_:): constraints have no valid specialization",
+    "Unsupported: Skipping NotificationCenter.messages(of:for:bufferSize:): constraints have no valid specialization",
+    "Unsupported: Skipping NotificationCenter.messages(of:for:bufferSize:): constraints have no valid specialization",
+    "Unsupported: Skipping NotificationCenter.messages(of:for:bufferSize:): constraints have no valid specialization",
+    "Unsupported: Skipping NotificationCenter.post(_:): constraints have no valid specialization",
+    "Unsupported: Skipping NotificationCenter.post(_:subject:): constraints have no valid specialization",
+    "Unsupported: Skipping property Foundation.Data.bytes: references unsupported host type Swift.RawSpan",
+    "Unsupported: Skipping property Foundation.Data.mutableBytes: references unsupported host type Swift.MutableRawSpan",
+    "Unsupported: Skipping property Foundation.Data.mutableSpan: references unsupported host type Swift.MutableSpan<Swift.UInt8>",
+    "Unsupported: Skipping property Foundation.Data.span: references unsupported host type Swift.Span<Swift.UInt8>",
+    "Unsupported: swift-format not found; skipped formatting"
+  ],
+  "metrics" : {
+    "collectorFallbackPlaceholderHitCount" : 0,
+    "resolverPlaceholderDropHitCount" : 0
+  },
+  "moduleName" : "Foundation",
+  "typeAliases" : [
+    {
+      "canonicalTarget" : "Swift.Array<Foundation.AttributedString.WritingDirection>",
+      "name" : "AllCases",
+      "qualifiedName" : "Foundation.AllCases",
+      "sourceLine" : 6443
+    },
+    {
+      "canonicalTarget" : "Foundation.AttributedString.InterpolationOptions",
+      "name" : "ArrayLiteralElement",
+      "qualifiedName" : "Foundation.ArrayLiteralElement",
+      "sourceLine" : 21951
+    },
+    {
+      "canonicalTarget" : "Foundation.FileHandle.AsyncBytes.Iterator",
+      "name" : "AsyncIterator",
+      "qualifiedName" : "Foundation.AsyncIterator",
+      "sourceLine" : 20655
+    },
+    {
+      "canonicalTarget" : "Foundation.NSURLRequest.Attribution",
+      "name" : "Attribution",
+      "qualifiedName" : "Foundation.Attribution",
+      "sourceLine" : 20473
+    },
+    {
+      "canonicalTarget" : "Foundation.NSData.Base64DecodingOptions",
+      "name" : "Base64DecodingOptions",
+      "qualifiedName" : "Foundation.Base64DecodingOptions",
+      "sourceLine" : 10211
+    },
+    {
+      "canonicalTarget" : "Foundation.NSData.Base64EncodingOptions",
+      "name" : "Base64EncodingOptions",
+      "qualifiedName" : "Foundation.Base64EncodingOptions",
+      "sourceLine" : 10210
+    },
+    {
+      "canonicalTarget" : "Foundation.NSURL.BookmarkCreationOptions",
+      "name" : "BookmarkCreationOptions",
+      "qualifiedName" : "Foundation.BookmarkCreationOptions",
+      "sourceLine" : 16261
+    },
+    {
+      "canonicalTarget" : "Foundation.NSURL.BookmarkResolutionOptions",
+      "name" : "BookmarkResolutionOptions",
+      "qualifiedName" : "Foundation.BookmarkResolutionOptions",
+      "sourceLine" : 16260
+    },
+    {
+      "canonicalTarget" : "Swift.Bool",
+      "name" : "BooleanLiteralType",
+      "qualifiedName" : "Foundation.BooleanLiteralType",
+      "sourceLine" : 23715
+    },
+    {
+      "canonicalTarget" : "Foundation.NSURLRequest.CachePolicy",
+      "name" : "CachePolicy",
+      "qualifiedName" : "Foundation.CachePolicy",
+      "sourceLine" : 20470
+    },
+    {
+      "canonicalTarget" : "Foundation.NSDecimalNumber.CalculationError",
+      "name" : "CalculationError",
+      "qualifiedName" : "Foundation.CalculationError",
+      "sourceLine" : 10325
+    },
+    {
+      "canonicalTarget" : "Foundation.FormatStyleCapitalizationContext",
+      "name" : "CapitalizationContext",
+      "qualifiedName" : "Foundation.CapitalizationContext",
+      "sourceLine" : 3936
+    },
+    {
+      "canonicalTarget" : "Foundation.DecodableAttributedStringKey",
+      "name" : "CodableAttributedStringKey",
+      "qualifiedName" : "Foundation.CodableAttributedStringKey",
+      "sourceLine" : 5315
+    },
+    {
+      "canonicalTarget" : "Foundation.DecodableWithConfiguration",
+      "name" : "CodableWithConfiguration",
+      "qualifiedName" : "Foundation.CodableWithConfiguration",
+      "sourceLine" : 17091
+    },
+    {
+      "canonicalTarget" : "Darwin.MachErrorCode",
+      "name" : "Code",
+      "qualifiedName" : "Foundation.Code",
+      "sourceLine" : 17594
+    },
+    {
+      "canonicalTarget" : "Foundation.NSString.CompareOptions",
+      "name" : "CompareOptions",
+      "qualifiedName" : "Foundation.CompareOptions",
+      "sourceLine" : 15482
+    },
+    {
+      "canonicalTarget" : "Swift.Never",
+      "name" : "Compared",
+      "qualifiedName" : "Foundation.Compared",
+      "sourceLine" : 17488
+    },
+    {
+      "canonicalTarget" : "Foundation.CurrencyFormatStyleConfiguration",
+      "name" : "Configuration",
+      "qualifiedName" : "Foundation.Configuration",
+      "sourceLine" : 3457
+    },
+    {
+      "canonicalTarget" : "Foundation.Date.FormatStyle.DateStyle",
+      "name" : "DateStyle",
+      "qualifiedName" : "Foundation.DateStyle",
+      "sourceLine" : 2846
+    },
+    {
+      "canonicalTarget" : "Foundation.NumberFormatStyleConfiguration.DecimalSeparatorDisplayStrategy",
+      "name" : "DecimalSeparatorDisplayStrategy",
+      "qualifiedName" : "Foundation.DecimalSeparatorDisplayStrategy",
+      "sourceLine" : 3881
+    },
+    {
+      "canonicalTarget" : "Element.DecodingConfiguration",
+      "name" : "DecodingConfiguration",
+      "qualifiedName" : "Foundation.DecodingConfiguration",
+      "sourceLine" : 17190
+    },
+    {
+      "canonicalTarget" : "Swift.UnicodeScalar",
+      "name" : "Element",
+      "qualifiedName" : "Foundation.Element",
+      "sourceLine" : 22897
+    },
+    {
+      "canonicalTarget" : "Element.EncodingConfiguration",
+      "name" : "EncodingConfiguration",
+      "qualifiedName" : "Foundation.EncodingConfiguration",
+      "sourceLine" : 17184
+    },
+    {
+      "canonicalTarget" : "Foundation.NSString.EncodingConversionOptions",
+      "name" : "EncodingConversionOptions",
+      "qualifiedName" : "Foundation.EncodingConversionOptions",
+      "sourceLine" : 15452
+    },
+    {
+      "canonicalTarget" : "Foundation.NSString.EnumerationOptions",
+      "name" : "EnumerationOptions",
+      "qualifiedName" : "Foundation.EnumerationOptions",
+      "sourceLine" : 15453
+    },
+    {
+      "canonicalTarget" : "Swift.Optional<Swift.AutoreleasingUnsafeMutablePointer<Swift.Optional<Foundation.NSError>>>",
+      "name" : "ErrorPointer",
+      "qualifiedName" : "Foundation.ErrorPointer",
+      "sourceLine" : 20159
+    },
+    {
+      "canonicalTarget" : "Swift.String",
+      "name" : "ExtendedGraphemeClusterLiteralType",
+      "qualifiedName" : "Foundation.ExtendedGraphemeClusterLiteralType",
+      "sourceLine" : 22216
+    },
+    {
+      "canonicalTarget" : "Swift.Never",
+      "name" : "Failure",
+      "qualifiedName" : "Foundation.Failure",
+      "sourceLine" : 22796
+    },
+    {
+      "canonicalTarget" : "Foundation.Date.ComponentsFormatStyle.Field",
+      "name" : "Field",
+      "qualifiedName" : "Foundation.Field",
+      "sourceLine" : 1810
+    },
+    {
+      "canonicalTarget" : "Swift.Double",
+      "name" : "FloatLiteralType",
+      "qualifiedName" : "Foundation.FloatLiteralType",
+      "sourceLine" : 23717
+    },
+    {
+      "canonicalTarget" : "Swift.Range<Foundation.Date>",
+      "name" : "FormatInput",
+      "qualifiedName" : "Foundation.FormatInput",
+      "sourceLine" : 23798
+    },
+    {
+      "canonicalTarget" : "Swift.String",
+      "name" : "FormatOutput",
+      "qualifiedName" : "Foundation.FormatOutput",
+      "sourceLine" : 23800
+    },
+    {
+      "canonicalTarget" : "Foundation.NumberFormatStyleConfiguration.Grouping",
+      "name" : "Grouping",
+      "qualifiedName" : "Foundation.Grouping",
+      "sourceLine" : 3879
+    },
+    {
+      "canonicalTarget" : "Dispatch.DispatchData.Index",
+      "name" : "Index",
+      "qualifiedName" : "Foundation.Index",
+      "sourceLine" : 20723
+    },
+    {
+      "canonicalTarget" : "Swift.Range<Dispatch.DispatchData.Index>",
+      "name" : "Indices",
+      "qualifiedName" : "Foundation.Indices",
+      "sourceLine" : 20725
+    },
+    {
+      "canonicalTarget" : "Foundation.Data",
+      "name" : "Input",
+      "qualifiedName" : "Foundation.Input",
+      "sourceLine" : 17068
+    },
+    {
+      "canonicalTarget" : "Swift.Int",
+      "name" : "IntegerLiteralType",
+      "qualifiedName" : "Foundation.IntegerLiteralType",
+      "sourceLine" : 23719
+    },
+    {
+      "canonicalTarget" : "Foundation.NSIndexSetIterator",
+      "name" : "Iterator",
+      "qualifiedName" : "Foundation.Iterator",
+      "sourceLine" : 22660
+    },
+    {
+      "canonicalTarget" : "Swift.Any",
+      "name" : "Key",
+      "qualifiedName" : "Foundation.Key",
+      "sourceLine" : 21323
+    },
+    {
+      "canonicalTarget" : "Foundation.NSKeyValueChange",
+      "name" : "Kind",
+      "qualifiedName" : "Foundation.Kind",
+      "sourceLine" : 164
+    },
+    {
+      "canonicalTarget" : "Foundation.NSLocale.LanguageDirection",
+      "name" : "LanguageDirection",
+      "qualifiedName" : "Foundation.LanguageDirection",
+      "sourceLine" : 12053
+    },
+    {
+      "canonicalTarget" : "Foundation.TimeInterval",
+      "name" : "Magnitude",
+      "qualifiedName" : "Foundation.Magnitude",
+      "sourceLine" : 19489
+    },
+    {
+      "canonicalTarget" : "Foundation.NSMutableURLRequest",
+      "name" : "MutableURLRequest",
+      "qualifiedName" : "Foundation.MutableURLRequest",
+      "sourceLine" : 20466
+    },
+    {
+      "canonicalTarget" : "Swift.Optional<Swift.AutoreleasingUnsafeMutablePointer<Swift.Optional<Foundation.NSError>>>",
+      "name" : "NSErrorPointer",
+      "qualifiedName" : "Foundation.NSErrorPointer",
+      "sourceLine" : 20158
+    },
+    {
+      "canonicalTarget" : "Foundation.NSNotification.Name",
+      "name" : "Name",
+      "qualifiedName" : "Foundation.Name",
+      "sourceLine" : 20084
+    },
+    {
+      "canonicalTarget" : "Foundation.NSTimeZone.NameStyle",
+      "name" : "NameStyle",
+      "qualifiedName" : "Foundation.NameStyle",
+      "sourceLine" : 15582
+    },
+    {
+      "canonicalTarget" : "Foundation.NSURLRequest.NetworkServiceType",
+      "name" : "NetworkServiceType",
+      "qualifiedName" : "Foundation.NetworkServiceType",
+      "sourceLine" : 20471
+    },
+    {
+      "canonicalTarget" : "Foundation.NumberFormatStyleConfiguration.Notation",
+      "name" : "Notation",
+      "qualifiedName" : "Foundation.Notation",
+      "sourceLine" : 3884
+    },
+    {
+      "canonicalTarget" : "Foundation.NSString",
+      "name" : "ObjectiveCValue",
+      "qualifiedName" : "Foundation.ObjectiveCValue",
+      "sourceLine" : 6420
+    },
+    {
+      "canonicalTarget" : "Combine.ObservableObject",
+      "name" : "ObservableObject",
+      "qualifiedName" : "Foundation.ObservableObject",
+      "sourceLine" : 200
+    },
+    {
+      "canonicalTarget" : "Foundation.Date",
+      "name" : "Output",
+      "qualifiedName" : "Foundation.Output",
+      "sourceLine" : 22795
+    },
+    {
+      "canonicalTarget" : "Swift.String",
+      "name" : "ParseInput",
+      "qualifiedName" : "Foundation.ParseInput",
+      "sourceLine" : 23375
+    },
+    {
+      "canonicalTarget" : "Foundation.PersonNameComponents",
+      "name" : "ParseOutput",
+      "qualifiedName" : "Foundation.ParseOutput",
+      "sourceLine" : 23377
+    },
+    {
+      "canonicalTarget" : "Foundation.NumberFormatStyleConfiguration.Precision",
+      "name" : "Precision",
+      "qualifiedName" : "Foundation.Precision",
+      "sourceLine" : 3880
+    },
+    {
+      "canonicalTarget" : "Foundation.Date.RelativeFormatStyle.Presentation",
+      "name" : "Presentation",
+      "qualifiedName" : "Foundation.Presentation",
+      "sourceLine" : 1693
+    },
+    {
+      "canonicalTarget" : "Foundation.PropertyListSerialization.PropertyListFormat",
+      "name" : "PropertyListFormat",
+      "qualifiedName" : "Foundation.PropertyListFormat",
+      "sourceLine" : 15335
+    },
+    {
+      "canonicalTarget" : "Combine.Published",
+      "name" : "Published",
+      "qualifiedName" : "Foundation.Published",
+      "sourceLine" : 198
+    },
+    {
+      "canonicalTarget" : "Swift.Int",
+      "name" : "RawValue",
+      "qualifiedName" : "Foundation.RawValue",
+      "sourceLine" : 23332
+    },
+    {
+      "canonicalTarget" : "Foundation.NSData.ReadingOptions",
+      "name" : "ReadingOptions",
+      "qualifiedName" : "Foundation.ReadingOptions",
+      "sourceLine" : 9784
+    },
+    {
+      "canonicalTarget" : "Foundation.NSData",
+      "name" : "ReferenceType",
+      "qualifiedName" : "Foundation.ReferenceType",
+      "sourceLine" : 21194
+    },
+    {
+      "canonicalTarget" : "_StringProcessing.AnyRegexOutput",
+      "name" : "RegexOutput",
+      "qualifiedName" : "Foundation.RegexOutput",
+      "sourceLine" : 14874
+    },
+    {
+      "canonicalTarget" : "Swift.Array<Dispatch.DispatchData.Region>",
+      "name" : "Regions",
+      "qualifiedName" : "Foundation.Regions",
+      "sourceLine" : 20737
+    },
+    {
+      "canonicalTarget" : "Foundation.NSDecimalNumber.RoundingMode",
+      "name" : "RoundingMode",
+      "qualifiedName" : "Foundation.RoundingMode",
+      "sourceLine" : 10324
+    },
+    {
+      "canonicalTarget" : "Foundation.NumberFormatStyleConfiguration.RoundingRule",
+      "name" : "RoundingRule",
+      "qualifiedName" : "Foundation.RoundingRule",
+      "sourceLine" : 3882
+    },
+    {
+      "canonicalTarget" : "Foundation.NSData.SearchOptions",
+      "name" : "SearchOptions",
+      "qualifiedName" : "Foundation.SearchOptions",
+      "sourceLine" : 10209
+    },
+    {
+      "canonicalTarget" : "Foundation.PersonNameComponents.ParseStrategy",
+      "name" : "Strategy",
+      "qualifiedName" : "Foundation.Strategy",
+      "sourceLine" : 23399
+    },
+    {
+      "canonicalTarget" : "Foundation.TimeInterval",
+      "name" : "Stride",
+      "qualifiedName" : "Foundation.Stride",
+      "sourceLine" : 17284
+    },
+    {
+      "canonicalTarget" : "Swift.String.LocalizationValue.StringInterpolation",
+      "name" : "StringInterpolation",
+      "qualifiedName" : "Foundation.StringInterpolation",
+      "sourceLine" : 22218
+    },
+    {
+      "canonicalTarget" : "Swift.String",
+      "name" : "StringLiteralType",
+      "qualifiedName" : "Foundation.StringLiteralType",
+      "sourceLine" : 22220
+    },
+    {
+      "canonicalTarget" : "Foundation.ByteCountFormatStyle.Style",
+      "name" : "Style",
+      "qualifiedName" : "Foundation.Style",
+      "sourceLine" : 19600
+    },
+    {
+      "canonicalTarget" : "Swift.Slice<Dispatch.DispatchData.Region>",
+      "name" : "SubSequence",
+      "qualifiedName" : "Foundation.SubSequence",
+      "sourceLine" : 20731
+    },
+    {
+      "canonicalTarget" : "Foundation.NSExtensionContext",
+      "name" : "Subject",
+      "qualifiedName" : "Foundation.Subject",
+      "sourceLine" : 19283
+    },
+    {
+      "canonicalTarget" : "Foundation.AttributedString.UTF16View",
+      "name" : "Subsequence",
+      "qualifiedName" : "Foundation.Subsequence",
+      "sourceLine" : 1597
+    },
+    {
+      "canonicalTarget" : "Foundation.Date.FormatStyle.Symbol",
+      "name" : "Symbol",
+      "qualifiedName" : "Foundation.Symbol",
+      "sourceLine" : 1784
+    },
+    {
+      "canonicalTarget" : "Foundation.Date.FormatStyle.TimeStyle",
+      "name" : "TimeStyle",
+      "qualifiedName" : "Foundation.TimeStyle",
+      "sourceLine" : 2847
+    },
+    {
+      "canonicalTarget" : "Swift.String",
+      "name" : "UnicodeScalarLiteralType",
+      "qualifiedName" : "Foundation.UnicodeScalarLiteralType",
+      "sourceLine" : 22222
+    },
+    {
+      "canonicalTarget" : "Foundation.ByteCountFormatStyle.Units",
+      "name" : "Units",
+      "qualifiedName" : "Foundation.Units",
+      "sourceLine" : 19601
+    },
+    {
+      "canonicalTarget" : "Foundation.Date.RelativeFormatStyle.UnitsStyle",
+      "name" : "UnitsStyle",
+      "qualifiedName" : "Foundation.UnitsStyle",
+      "sourceLine" : 1694
+    },
+    {
+      "canonicalTarget" : "Swift.Any",
+      "name" : "Value",
+      "qualifiedName" : "Foundation.Value",
+      "sourceLine" : 21325
+    },
+    {
+      "canonicalTarget" : "Foundation.NSData.WritingOptions",
+      "name" : "WritingOptions",
+      "qualifiedName" : "Foundation.WritingOptions",
+      "sourceLine" : 9785
+    },
+    {
+      "canonicalTarget" : "CoreFoundation.CGFloat",
+      "name" : "_Arg",
+      "qualifiedName" : "Foundation._Arg",
+      "sourceLine" : 22162
+    },
+    {
+      "canonicalTarget" : "Foundation.URLError",
+      "name" : "_ErrorType",
+      "qualifiedName" : "Foundation._ErrorType",
+      "sourceLine" : 21412
+    },
+    {
+      "canonicalTarget" : "Foundation.URL",
+      "name" : "_FileReferenceLiteralType",
+      "qualifiedName" : "Foundation._FileReferenceLiteralType",
+      "sourceLine" : 16672
+    },
+    {
+      "canonicalTarget" : "Foundation.NSNumber",
+      "name" : "_ObjectiveCType",
+      "qualifiedName" : "Foundation._ObjectiveCType",
+      "sourceLine" : 23707
+    },
+    {
+      "canonicalTarget" : "(Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8, Swift.Int8)",
+      "name" : "uuid_string_t",
+      "qualifiedName" : "Foundation.uuid_string_t",
+      "sourceLine" : 17510
+    },
+    {
+      "canonicalTarget" : "(Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8, Swift.UInt8)",
+      "name" : "uuid_t",
+      "qualifiedName" : "Foundation.uuid_t",
+      "sourceLine" : 17509
+    }
+  ],
+  "types" : [
+    {
+      "canonicalName" : "Foundation.Data",
+      "methods" : [
+        {
+          "baseName" : "==",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "==(d1:d2:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "_copyContents",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "_copyContents(initializing:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "advanced",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "advanced(by:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "append",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "append(_:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "append",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "append(_:count:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "append",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "append(contentsOf:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "base64EncodedData",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "base64EncodedData(options:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "base64EncodedString",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "base64EncodedString(options:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "copyBytes",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "copyBytes(to:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "copyBytes",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "copyBytes(to:count:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "copyBytes",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "copyBytes(to:from:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "encode",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "encode(to:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "firstRange",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+            "D"
+          ],
+          "requirements" : [
+            "D: Foundation.DataProtocol"
+          ],
+          "selector" : "firstRange(of:)",
+          "specializationCount" : 0,
+          "specializationSource" : "none",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "firstRange",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+            "D",
+            "R"
+          ],
+          "requirements" : [
+            "D: Foundation.DataProtocol",
+            "R: Swift.RangeExpression",
+            "Self.Index == R.Bound"
+          ],
+          "selector" : "firstRange(of:in:)",
+          "specializationCount" : 0,
+          "specializationSource" : "none",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "index",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "index(after:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "index",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "index(before:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "init",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init()",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "elements",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+            "S"
+          ],
+          "requirements" : [
+            "S: Swift.Sequence",
+            "S.Element == Swift.UInt8"
+          ],
+          "selector" : "init(_:)",
+          "specializationCount" : 0,
+          "specializationSource" : "none",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "base64Encoded",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(base64Encoded:options:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "buffer",
+          "genericParameterDomainSizes" : {
+            "SourceType" : 6
+          },
+          "genericParameters" : [
+            "SourceType"
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(buffer:)",
+          "specializationCount" : 6,
+          "specializationSource" : "auto.palette.standard",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "bytes",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+            "S"
+          ],
+          "requirements" : [
+            "S: Swift.Sequence",
+            "S.Element == Swift.UInt8"
+          ],
+          "selector" : "init(bytes:)",
+          "specializationCount" : 0,
+          "specializationSource" : "none",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "bytes",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(bytes:count:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "bytesNoCopy",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(bytesNoCopy:count:deallocator:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "capacity",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(capacity:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "contentsOf",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(contentsOf:options:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "count",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(count:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "from",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(from:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "repeating",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(repeating:count:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "lastRange",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+            "D"
+          ],
+          "requirements" : [
+            "D: Foundation.DataProtocol"
+          ],
+          "selector" : "lastRange(of:)",
+          "specializationCount" : 0,
+          "specializationSource" : "none",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "lastRange",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+            "D",
+            "R"
+          ],
+          "requirements" : [
+            "D: Foundation.DataProtocol",
+            "R: Swift.RangeExpression",
+            "Self.Index == R.Bound"
+          ],
+          "selector" : "lastRange(of:in:)",
+          "specializationCount" : 0,
+          "specializationSource" : "none",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "makeIterator",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "makeIterator()",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "range",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "range(of:options:in:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "replaceSubrange",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "replaceSubrange(_:with:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "replaceSubrange",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "replaceSubrange(_:with:count:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "reserveCapacity",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "reserveCapacity(_:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "resetBytes",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "resetBytes(in:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "subdata",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "subdata(in:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "write",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "write(to:options:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        }
+      ],
+      "properties" : [
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "count",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "customMirror",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "debugDescription",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "description",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "endIndex",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "hashValue",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "indices",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "regions",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "startIndex",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        }
+      ]
+    },
+    {
+      "canonicalName" : "Foundation.Date",
+      "methods" : [
+        {
+          "baseName" : "+",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "+(lhs:rhs:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "-",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "-(lhs:rhs:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "<",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "<(lhs:rhs:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "==",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "==(lhs:rhs:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : ">",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : ">(lhs:rhs:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "ISO8601Format",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "ISO8601Format(_:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "addTimeInterval",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "addTimeInterval(_:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "addingTimeInterval",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "addingTimeInterval(_:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "advanced",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "advanced(by:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "compare",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "compare(_:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "description",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "description(with:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "distance",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "distance(to:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "encode",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "encode(to:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "formatted",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "formatted()",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "formatted",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+            "F"
+          ],
+          "requirements" : [
+            "F: Foundation.FormatStyle",
+            "F.FormatInput == Foundation.Date"
+          ],
+          "selector" : "formatted(_:)",
+          "specializationCount" : 0,
+          "specializationSource" : "none",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "formatted",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "formatted(date:time:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "init",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init()",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "value",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+            "T"
+          ],
+          "requirements" : [
+            "T: Foundation.ParseStrategy",
+            "T.ParseOutput == Foundation.Date"
+          ],
+          "selector" : "init(_:strategy:)",
+          "specializationCount" : 0,
+          "specializationSource" : "none",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "from",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(from:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "timeInterval",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(timeInterval:since:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "timeIntervalSince1970",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(timeIntervalSince1970:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "timeIntervalSinceNow",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(timeIntervalSinceNow:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "timeIntervalSinceReferenceDate",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(timeIntervalSinceReferenceDate:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "timeIntervalSince",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "timeIntervalSince(_:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        }
+      ],
+      "properties" : [
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "customMirror",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "customPlaygroundQuickLook",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "debugDescription",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "description",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "hashValue",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "static",
+          "name" : "now",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "timeIntervalSince1970",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "timeIntervalSinceNow",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "timeIntervalSinceReferenceDate",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        }
+      ]
+    },
+    {
+      "canonicalName" : "Foundation.DateComponents",
+      "methods" : [
+        {
+          "baseName" : "==",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "==(lhs:rhs:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "encode",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "encode(to:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "formatted",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+            "F"
+          ],
+          "requirements" : [
+            "F: Foundation.FormatStyle",
+            "F.FormatInput == Foundation.DateComponents"
+          ],
+          "selector" : "formatted(_:)",
+          "specializationCount" : 0,
+          "specializationSource" : "none",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "value",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+            "T"
+          ],
+          "requirements" : [
+            "T: Foundation.ParseStrategy",
+            "T.ParseOutput == Foundation.DateComponents"
+          ],
+          "selector" : "init(_:strategy:)",
+          "specializationCount" : 0,
+          "specializationSource" : "none",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "calendar",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(calendar:timeZone:era:year:month:day:hour:minute:second:nanosecond:weekday:weekdayOrdinal:quarter:weekOfMonth:weekOfYear:yearForWeekOfYear:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "from",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(from:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "isValidDate",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "isValidDate(in:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "setValue",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "setValue(_:for:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "value",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "value(for:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        }
+      ],
+      "properties" : [
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "calendar",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "customMirror",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "date",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "day",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "dayOfYear",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "debugDescription",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "description",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "era",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "hashValue",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "hour",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "isLeapMonth",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "isRepeatedDay",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "isValidDate",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "minute",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "month",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "nanosecond",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "quarter",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "second",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "timeZone",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "weekOfMonth",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "weekOfYear",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "weekday",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "weekdayOrdinal",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "year",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "yearForWeekOfYear",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        }
+      ]
+    },
+    {
+      "canonicalName" : "Foundation.Locale",
+      "methods" : [
+        {
+          "baseName" : "==",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "==(lhs:rhs:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "canonicalIdentifier",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "canonicalIdentifier(from:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "canonicalLanguageIdentifier",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "canonicalLanguageIdentifier(from:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "characterDirection",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "characterDirection(forLanguage:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "components",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "components(fromIdentifier:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "encode",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "encode(to:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "identifier",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "identifier(_:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "identifier",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "identifier(_:from:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "identifier",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "identifier(fromComponents:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "identifier",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "identifier(fromWindowsLocaleCode:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "components",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(components:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "from",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(from:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "identifier",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(identifier:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "languageCode",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(languageCode:script:languageRegion:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "languageComponents",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(languageComponents:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "lineDirection",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "lineDirection(forLanguage:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "localizedString",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "localizedString(for:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "localizedString",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "localizedString(forCollationIdentifier:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "localizedString",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "localizedString(forCollatorIdentifier:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "localizedString",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "localizedString(forCurrencyCode:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "localizedString",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "localizedString(forIdentifier:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "localizedString",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "localizedString(forLanguageCode:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "localizedString",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "localizedString(forRegionCode:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "localizedString",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "localizedString(forScriptCode:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "localizedString",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "localizedString(forVariantCode:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "windowsLocaleCode",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "windowsLocaleCode(fromIdentifier:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        }
+      ],
+      "properties" : [
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "alternateQuotationBeginDelimiter",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "alternateQuotationEndDelimiter",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "static",
+          "name" : "autoupdatingCurrent",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "static",
+          "name" : "availableIdentifiers",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "availableNumberingSystems",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "calendar",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "collation",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "collationIdentifier",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "collatorIdentifier",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "static",
+          "name" : "commonISOCurrencyCodes",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "currency",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "currencyCode",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "currencySymbol",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "static",
+          "name" : "current",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "customMirror",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "debugDescription",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "decimalSeparator",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "description",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "exemplarCharacterSet",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "firstDayOfWeek",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "groupingSeparator",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "hashValue",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "hourCycle",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "identifier",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "static",
+          "name" : "isoCurrencyCodes",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "static",
+          "name" : "isoLanguageCodes",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "static",
+          "name" : "isoRegionCodes",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "language",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "languageCode",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "measurementSystem",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "numberingSystem",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "static",
+          "name" : "preferredLanguages",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "static",
+          "name" : "preferredLocales",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "quotationBeginDelimiter",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "quotationEndDelimiter",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "region",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "regionCode",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "scriptCode",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "subdivision",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "timeZone",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "usesMetricSystem",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "variant",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "variantCode",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        }
+      ]
+    },
+    {
+      "canonicalName" : "Foundation.Notification",
+      "methods" : [
+        {
+          "baseName" : "==",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "==(lhs:rhs:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "name",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(name:object:userInfo:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        }
+      ],
+      "properties" : [
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "customMirror",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "debugDescription",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "description",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "hashValue",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "name",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "object",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "instance",
+          "name" : "userInfo",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        }
+      ]
+    },
+    {
+      "canonicalName" : "Foundation.NotificationCenter",
+      "methods" : [
+        {
+          "baseName" : "messages",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+            "Identifier",
+            "Message"
+          ],
+          "requirements" : [
+            "Identifier: Foundation.NotificationCenter.MessageIdentifier",
+            "Message: Foundation.NotificationCenter.AsyncMessage",
+            "Message == Identifier.MessageType",
+            "Message.Subject: AnyObject"
+          ],
+          "selector" : "messages(of:for:bufferSize:)",
+          "specializationCount" : 0,
+          "specializationSource" : "none",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "messages",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+            "Identifier",
+            "Message"
+          ],
+          "requirements" : [
+            "Identifier: Foundation.NotificationCenter.MessageIdentifier",
+            "Message: Foundation.NotificationCenter.AsyncMessage",
+            "Message == Identifier.MessageType"
+          ],
+          "selector" : "messages(of:for:bufferSize:)",
+          "specializationCount" : 0,
+          "specializationSource" : "none",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "messages",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+            "Message"
+          ],
+          "requirements" : [
+            "Message: Foundation.NotificationCenter.AsyncMessage",
+            "Message.Subject: AnyObject"
+          ],
+          "selector" : "messages(of:for:bufferSize:)",
+          "specializationCount" : 0,
+          "specializationSource" : "none",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "post",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+            "Message"
+          ],
+          "requirements" : [
+            "Message: Foundation.NotificationCenter.AsyncMessage"
+          ],
+          "selector" : "post(_:)",
+          "specializationCount" : 0,
+          "specializationSource" : "none",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "post",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+            "Message"
+          ],
+          "requirements" : [
+            "Message: Foundation.NotificationCenter.AsyncMessage",
+            "Message.Subject: AnyObject"
+          ],
+          "selector" : "post(_:subject:)",
+          "specializationCount" : 0,
+          "specializationSource" : "none",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "publisher",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "publisher(for:object:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "removeObserver",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "removeObserver(_:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        }
+      ],
+      "properties" : [
+
+      ]
+    },
+    {
+      "canonicalName" : "Foundation.TimeZone",
+      "methods" : [
+        {
+          "baseName" : "==",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "==(lhs:rhs:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "abbreviation",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "abbreviation(for:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "daylightSavingTimeOffset",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "daylightSavingTimeOffset(for:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "encode",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "encode(to:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "abbreviation",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(abbreviation:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "from",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(from:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "identifier",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(identifier:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "secondsFromGMT",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "init(secondsFromGMT:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "isDaylightSavingTime",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "isDaylightSavingTime(for:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "localizedName",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "localizedName(for:locale:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "nextDaylightSavingTimeTransition",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "nextDaylightSavingTimeTransition(after:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "baseName" : "secondsFromGMT",
+          "genericParameterDomainSizes" : {
+
+          },
+          "genericParameters" : [
+
+          ],
+          "requirements" : [
+
+          ],
+          "selector" : "secondsFromGMT(for:)",
+          "specializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        }
+      ],
+      "properties" : [
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : true,
+          "kind" : "static",
+          "name" : "abbreviationDictionary",
+          "setterSpecializationCount" : 1,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "static",
+          "name" : "autoupdatingCurrent",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "static",
+          "name" : "current",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "customMirror",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "debugDescription",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "description",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "static",
+          "name" : "gmt",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "hashValue",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "identifier",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "static",
+          "name" : "knownTimeZoneIdentifiers",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "instance",
+          "name" : "nextDaylightSavingTimeTransition",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        },
+        {
+          "genericParameterDomainSizes" : {
+
+          },
+          "getterSpecializationCount" : 1,
+          "isSettable" : false,
+          "kind" : "static",
+          "name" : "timeZoneDataVersion",
+          "setterSpecializationCount" : 0,
+          "specializationSource" : "not_applicable",
+          "usesFallback" : false
+        }
+      ]
+    }
+  ]
+}

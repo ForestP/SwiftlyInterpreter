@@ -1,0 +1,19 @@
+{
+  "specializations": {
+    "Demo.Foo": {
+      "T": [
+        "Swift.String",
+        "Swift.Int"
+      ]
+    }
+  },
+  "property_specializations": {
+    "Demo.Box<Value>": {
+      "instance::item": {
+        "Value": [
+          "Swift.String"
+        ]
+      }
+    }
+  }
+}

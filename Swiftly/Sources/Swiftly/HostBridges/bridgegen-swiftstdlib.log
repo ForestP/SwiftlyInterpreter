@@ -1,0 +1,711 @@
+Parse error: Failed to parse type for parameter initializer
+Parse error: Failed to parse type for parameter initializer
+Parse error: Failed to parse type for parameter initializer
+Parse error: Failed to parse type for parameter factory
+Unsupported: Property 'header' missing getter
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter x
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter nextPartialResult
+Parse error: Failed to parse type for parameter updateAccumulatingResult
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter initializer
+Unsupported: Property 'pointee' missing getter
+Parse error: Failed to parse type for parameter body
+Unsupported: Property 'pointee' missing getter
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Parse error: Failed to parse type for parameter body
+Unsupported: generic or complex typealias 'CountableClosedRange<Bound>'
+Unsupported: generic or complex typealias 'DictionaryIndex<Key, Value>'
+Unsupported: generic or complex typealias 'DictionaryIterator<Key, Value>'
+Unsupported: generic or complex typealias 'LazyDropWhileCollection<T>'
+Unsupported: generic or complex typealias 'LazyFilterCollection<T>'
+Unsupported: generic or complex typealias 'FlattenCollection<T>'
+Unsupported: generic or complex typealias 'LazyCollection<T>'
+Unsupported: generic or complex typealias 'LazyMapCollection<T, U>'
+Unsupported: generic or complex typealias 'LazyPrefixWhileCollection<T>'
+Unsupported: generic or complex typealias 'CountableRange<Bound>'
+Unsupported: generic or complex typealias 'CountablePartialRangeFrom<Bound>'
+Unsupported: generic or complex typealias 'SetIndex<Element>'
+Unsupported: generic or complex typealias 'SetIterator<Element>'
+Unsupported: generic or complex typealias 'EnumeratedIterator<T>'
+Unsupported: generic or complex typealias 'IteratorOverOne<T>'
+Unsupported: generic or complex typealias 'EmptyIterator<T>'
+Unsupported: generic or complex typealias 'LazyFilterIterator<T>'
+Unsupported: generic or complex typealias 'LazyFilterIndex<Base>'
+Unsupported: generic or complex typealias 'LazyDropWhileIterator<T>'
+Unsupported: generic or complex typealias 'LazyDropWhileIndex<T>'
+Unsupported: generic or complex typealias 'LazyDropWhileBidirectionalCollection<T>'
+Unsupported: generic or complex typealias 'LazyFilterBidirectionalCollection<T>'
+Unsupported: generic or complex typealias 'LazyMapIterator<T, E>'
+Unsupported: generic or complex typealias 'LazyMapBidirectionalCollection<T, E>'
+Unsupported: generic or complex typealias 'LazyMapRandomAccessCollection<T, E>'
+Unsupported: generic or complex typealias 'LazyBidirectionalCollection<T>'
+Unsupported: generic or complex typealias 'LazyRandomAccessCollection<T>'
+Unsupported: generic or complex typealias 'FlattenCollectionIndex<T>'
+Unsupported: generic or complex typealias 'FlattenBidirectionalCollectionIndex<T>'
+Unsupported: generic or complex typealias 'FlattenBidirectionalCollection<T>'
+Unsupported: generic or complex typealias 'JoinedIterator<T>'
+Unsupported: generic or complex typealias 'Zip2Iterator<T, U>'
+Unsupported: generic or complex typealias 'LazyPrefixWhileIterator<T>'
+Unsupported: generic or complex typealias 'LazyPrefixWhileIndex<T>'
+Unsupported: generic or complex typealias 'LazyPrefixWhileBidirectionalCollection<T>'
+Unsupported: generic or complex typealias 'ReversedRandomAccessCollection<T>'
+Unsupported: generic or complex typealias 'ReversedIndex<T>'
+Unsupported: generic or complex typealias 'BidirectionalSlice<T>'
+Unsupported: generic or complex typealias 'RandomAccessSlice<T>'
+Unsupported: generic or complex typealias 'RangeReplaceableSlice<T>'
+Unsupported: generic or complex typealias 'RangeReplaceableBidirectionalSlice<T>'
+Unsupported: generic or complex typealias 'RangeReplaceableRandomAccessSlice<T>'
+Unsupported: generic or complex typealias 'MutableSlice<T>'
+Unsupported: generic or complex typealias 'MutableBidirectionalSlice<T>'
+Unsupported: generic or complex typealias 'MutableRandomAccessSlice<T>'
+Unsupported: generic or complex typealias 'MutableRangeReplaceableSlice<T>'
+Unsupported: generic or complex typealias 'MutableRangeReplaceableBidirectionalSlice<T>'
+Unsupported: generic or complex typealias 'MutableRangeReplaceableRandomAccessSlice<T>'
+Unsupported: generic or complex typealias 'DefaultBidirectionalIndices<T>'
+Unsupported: generic or complex typealias 'DefaultRandomAccessIndices<T>'
+Unsupported: generic or complex typealias 'ClosedRangeIndex<T>'
+Unsupported: generic or complex typealias 'ImplicitlyUnwrappedOptional<Wrapped>'
+Unsupported: generic or complex typealias 'DictionaryLiteral<Key, Value>'
+Unsupported: generic or complex typealias 'UnsafeBufferPointerIterator<T>'
+Unsupported: generic or complex typealias 'UnsafeRawBufferPointerIterator<T>'
+Unsupported: generic or complex typealias 'UnsafeMutableRawBufferPointerIterator<T>'
+Unsupported: generic or complex typealias 'UnfoldFirstSequence<T>'
+Parse error: Failed to canonicalize parameter 'body': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'body': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'body': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'body': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'initializer': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'nilLiteral': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'nilLiteral': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'body': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'value0': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'value0': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'value0': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'value0': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'value0': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'value0': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'value0': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'value0': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'value0': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'value0': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'f': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'processCodeUnit': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'processCodeUnit': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'processCodeUnit': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'processCodeUnit': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter '_empty': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter '_empty': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'bounds': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'bounds': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter '_empty': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter '_empty': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'bounds': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter 'bounds': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter '_empty': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter '_empty': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter '_empty': Typealias cycle detected: Swift.Void -> Swift.Void
+Parse error: Failed to canonicalize parameter '_empty': Typealias cycle detected: Swift.Void -> Swift.Void
+Unsupported: Failed to resolve typealiases: Typealias cycle detected: Swift.Void -> Swift.Void
+Unsupported: Unsupported constraint 'S.Element == (Key' (unknown generic parameter)
+Unsupported: Unsupported generic constraint 'Value)'
+Unsupported: Unsupported constraint 'S.Element == (Key' (unknown generic parameter)
+Unsupported: Unsupported generic constraint 'Value)'
+Unsupported: Unsupported constraint 'S.Element == (Key' (unknown generic parameter)
+Unsupported: Unsupported generic constraint 'Value)'
+Unsupported: Unsupported constraint 'S.Element == (Key' (unknown generic parameter)
+Unsupported: Unsupported generic constraint 'Value)'
+Unsupported: Skipping Array.init(arrayLiteral:): variadic parameters are not supported yet
+Unsupported: Skipping Array._withUnsafeMutableBufferPointerIfSupported(_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping Array.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged
+Unsupported: Skipping Array.withContiguousMutableStorageIfAvailable(_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping Array.withContiguousStorageIfAvailable(_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping Array.withUnsafeBufferPointer(_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping Array.withUnsafeBytes(_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping Array.withUnsafeMutableBufferPointer(_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping Array.withUnsafeMutableBytes(_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping Array.+=(lhs:rhs:): inout parameter 'lhs' of type Swift.Array<Element> is not yet bridged
+Unsupported: Skipping Array.partition(by:): closure parameter 'belongsInSecondPartition' is not yet bridged
+Unsupported: Skipping Array.sort(by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping Array.removeAll(where:): closure parameter 'shouldBeRemoved' is not yet bridged
+Unsupported: Skipping Array.difference(from:by:): closure parameter 'areEquivalent' is not yet bridged
+Unsupported: Skipping Array.last(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Array.lastIndex(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Array.drop(while:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Array.firstIndex(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Array.flatMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Array.formIndex(_:offsetBy:): inout parameter 'i' of type Swift.Array<Element>.Index is not yet bridged
+Unsupported: Skipping Array.formIndex(_:offsetBy:limitedBy:): inout parameter 'i' of type Swift.Array<Element>.Index is not yet bridged
+Unsupported: Skipping Array.index(where:): closure parameter '_predicate' is not yet bridged
+Unsupported: Skipping Array.indices(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Array.prefix(while:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Array.randomElement(using:): inout parameter 'generator' of type T is not yet bridged
+Unsupported: Skipping Array.split(maxSplits:omittingEmptySubsequences:whereSeparator:): closure parameter 'isSeparator' is not yet bridged
+Unsupported: Skipping Array._compactMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Array._filter(_:): closure parameter 'isIncluded' is not yet bridged
+Unsupported: Skipping Array.allSatisfy(_:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Array.compactMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Array.count(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Array.elementsEqual(_:by:): closure parameter 'areEquivalent' is not yet bridged
+Unsupported: Skipping Array.first(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Array.lexicographicallyPrecedes(_:by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping Array.max(by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping Array.min(by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping Array.shuffled(using:): inout parameter 'generator' of type T is not yet bridged
+Unsupported: Skipping Array.sorted(by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping Array.starts(with:by:): closure parameter 'areEquivalent' is not yet bridged
+Unsupported: Skipping Bool.init(_:): references unsupported host type parameter '_v' of type Builtin.Int1
+Unsupported: Skipping Bool.init(_builtinBooleanLiteral:): references unsupported host type parameter 'value' of type Builtin.Int1
+Unsupported: Skipping Bool.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged
+Unsupported: Skipping Bool.&&(lhs:rhs:): closure parameter 'rhs' is not yet bridged
+Unsupported: Skipping Bool.random(using:): inout parameter 'generator' of type T is not yet bridged
+Unsupported: Skipping Bool.||(lhs:rhs:): closure parameter 'rhs' is not yet bridged
+Unsupported: Skipping Dictionary.init(_:uniquingKeysWith:): closure parameter 'combine' is not yet bridged
+Unsupported: Skipping Dictionary.init(dictionaryLiteral:): variadic parameters are not supported yet
+Unsupported: Skipping Dictionary.init(grouping:by:): closure parameter 'keyForValue' is not yet bridged
+Unsupported: Skipping Dictionary.compactMapValues(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Dictionary.filter(_:): closure parameter 'isIncluded' is not yet bridged
+Unsupported: Skipping Dictionary.formIndex(after:): inout parameter 'i' of type Swift.Dictionary<Key,Value>.Index is not yet bridged
+Unsupported: Skipping Dictionary.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged
+Unsupported: Skipping Dictionary.mapValues(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Dictionary._compactMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Dictionary._filter(_:): closure parameter 'isIncluded' is not yet bridged
+Unsupported: Skipping Dictionary.allSatisfy(_:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Dictionary.compactMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Dictionary.contains(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Dictionary.count(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Dictionary.drop(while:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Dictionary.elementsEqual(_:by:): closure parameter 'areEquivalent' is not yet bridged
+Unsupported: Skipping Dictionary.first(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Dictionary.flatMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Dictionary.lexicographicallyPrecedes(_:by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping Dictionary.map(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Dictionary.max(by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping Dictionary.min(by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping Dictionary.prefix(while:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Dictionary.shuffled(using:): inout parameter 'generator' of type T is not yet bridged
+Unsupported: Skipping Dictionary.sorted(by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping Dictionary.split(maxSplits:omittingEmptySubsequences:whereSeparator:): closure parameter 'isSeparator' is not yet bridged
+Unsupported: Skipping Dictionary.starts(with:by:): closure parameter 'areEquivalent' is not yet bridged
+Unsupported: Skipping Dictionary.withContiguousStorageIfAvailable(_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping Dictionary.firstIndex(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Dictionary.formIndex(_:offsetBy:): inout parameter 'i' of type Swift.Dictionary<Key,Value>.Index is not yet bridged
+Unsupported: Skipping Dictionary.formIndex(_:offsetBy:limitedBy:): inout parameter 'i' of type Swift.Dictionary<Key,Value>.Index is not yet bridged
+Unsupported: Skipping Dictionary.index(where:): closure parameter '_predicate' is not yet bridged
+Unsupported: Skipping Dictionary.indices(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Dictionary.randomElement(using:): inout parameter 'generator' of type T is not yet bridged
+Unsupported: Skipping Double.init(_builtinFloatLiteral:): references unsupported host type parameter 'value' of type Builtin.FPIEEE64
+Unsupported: Skipping Double.init(_builtinIntegerLiteral:): references unsupported host type parameter 'value' of type Builtin.IntLiteral
+Unsupported: Skipping Double.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged
+Unsupported: Skipping Double.write(to:): inout parameter 'target' of type Target is not yet bridged
+Unsupported: Skipping Int.init(_builtinIntegerLiteral:): references unsupported host type parameter 'x' of type Builtin.IntLiteral
+Unsupported: Skipping Int.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged
+Unsupported: Skipping Int._random(using:): inout parameter 'generator' of type R is not yet bridged
+Unsupported: Skipping Int.random(in:using:): inout parameter 'generator' of type T is not yet bridged
+Unsupported: Skipping Optional._borrowingFlatMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Optional._borrowingMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Optional._consumingFlatMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Optional._consumingMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Optional.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged
+Unsupported: Skipping Set.init(arrayLiteral:): variadic parameters are not supported yet
+Unsupported: Skipping Set.filter(_:): closure parameter 'isIncluded' is not yet bridged
+Unsupported: Skipping Set.formIndex(after:): inout parameter 'i' of type Swift.Set<Element>.Index is not yet bridged
+Unsupported: Skipping Set.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged
+Unsupported: Skipping Set._compactMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Set._filter(_:): closure parameter 'isIncluded' is not yet bridged
+Unsupported: Skipping Set.allSatisfy(_:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Set.compactMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Set.contains(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Set.count(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Set.drop(while:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Set.elementsEqual(_:by:): closure parameter 'areEquivalent' is not yet bridged
+Unsupported: Skipping Set.first(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Set.flatMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Set.lexicographicallyPrecedes(_:by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping Set.map(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping Set.max(by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping Set.min(by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping Set.prefix(while:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Set.shuffled(using:): inout parameter 'generator' of type T is not yet bridged
+Unsupported: Skipping Set.sorted(by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping Set.split(maxSplits:omittingEmptySubsequences:whereSeparator:): closure parameter 'isSeparator' is not yet bridged
+Unsupported: Skipping Set.starts(with:by:): closure parameter 'areEquivalent' is not yet bridged
+Unsupported: Skipping Set.withContiguousStorageIfAvailable(_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping Set.firstIndex(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Set.formIndex(_:offsetBy:): inout parameter 'i' of type Swift.Set<Element>.Index is not yet bridged
+Unsupported: Skipping Set.formIndex(_:offsetBy:limitedBy:): inout parameter 'i' of type Swift.Set<Element>.Index is not yet bridged
+Unsupported: Skipping Set.index(where:): closure parameter '_predicate' is not yet bridged
+Unsupported: Skipping Set.indices(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping Set.randomElement(using:): inout parameter 'generator' of type T is not yet bridged
+Unsupported: Skipping String.init(_builtinExtendedGraphemeClusterLiteral:utf8CodeUnitCount:isASCII:): references unsupported host type parameter 'start' of type Builtin.RawPointer
+Unsupported: Skipping String.init(_builtinStringLiteral:utf8CodeUnitCount:isASCII:): references unsupported host type parameter 'start' of type Builtin.RawPointer
+Unsupported: Skipping String.init(_builtinUnicodeScalarLiteral:): references unsupported host type parameter 'value' of type Builtin.Int32
+Unsupported: Skipping String.init(copying:): references unsupported host type parameter 'codeUnits' of type Swift.UTF8Span
+Unsupported: Skipping String._deconstructUTF8(scratch:): references unsupported host type return type (Swift.Optional<Builtin.AnyObject>, ToPointer, Swift.Int, Swift.Bool, Swift.Bool)
+Unsupported: Skipping String.hash(into:): inout parameter 'hasher' of type Swift.Hasher is not yet bridged
+Unsupported: Skipping String.withCString(_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping String.withCString(encodedAs:_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping String.withMutableCharacters(_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping String.withUTF8(_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping String.write(to:): inout parameter 'target' of type Target is not yet bridged
+Unsupported: Skipping String.difference(from:by:): closure parameter 'areEquivalent' is not yet bridged
+Unsupported: Skipping String.formIndex(after:): inout parameter 'i' of type Swift.String.Index is not yet bridged
+Unsupported: Skipping String.formIndex(before:): inout parameter 'i' of type Swift.String.Index is not yet bridged
+Unsupported: Skipping String.last(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping String.lastIndex(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping String.filter(_:): closure parameter 'isIncluded' is not yet bridged
+Unsupported: Skipping String.removeAll(where:): closure parameter 'shouldBeRemoved' is not yet bridged
+Unsupported: Skipping String.drop(while:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping String.firstIndex(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping String.flatMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping String.formIndex(_:offsetBy:): inout parameter 'i' of type Swift.String.Index is not yet bridged
+Unsupported: Skipping String.formIndex(_:offsetBy:limitedBy:): inout parameter 'i' of type Swift.String.Index is not yet bridged
+Unsupported: Skipping String.index(where:): closure parameter '_predicate' is not yet bridged
+Unsupported: Skipping String.indices(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping String.map(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping String.prefix(while:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping String.randomElement(using:): inout parameter 'generator' of type T is not yet bridged
+Unsupported: Skipping String.split(maxSplits:omittingEmptySubsequences:whereSeparator:): closure parameter 'isSeparator' is not yet bridged
+Unsupported: Skipping String._compactMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping String._filter(_:): closure parameter 'isIncluded' is not yet bridged
+Unsupported: Skipping String.allSatisfy(_:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping String.compactMap(_:): closure parameter 'transform' is not yet bridged
+Unsupported: Skipping String.contains(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping String.count(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping String.elementsEqual(_:by:): closure parameter 'areEquivalent' is not yet bridged
+Unsupported: Skipping String.first(where:): closure parameter 'predicate' is not yet bridged
+Unsupported: Skipping String.lexicographicallyPrecedes(_:by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping String.max(by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping String.min(by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping String.shuffled(using:): inout parameter 'generator' of type T is not yet bridged
+Unsupported: Skipping String.sorted(by:): closure parameter 'areInIncreasingOrder' is not yet bridged
+Unsupported: Skipping String.starts(with:by:): closure parameter 'areEquivalent' is not yet bridged
+Unsupported: Skipping String.withContiguousStorageIfAvailable(_:): closure parameter 'body' is not yet bridged
+Unsupported: Skipping Dictionary.+(lhs:rhs:) due to availability @available(*, unavailable, message: "Operator '+' cannot be used to append a String to a sequence of strings")
+Unsupported: Skipping Set.+(lhs:rhs:) due to availability @available(*, unavailable, message: "Operator '+' cannot be used to append a String to a sequence of strings")
+Unsupported: Skipping Array.init(_:): constraints have no valid specialization
+Unsupported: Skipping Array.init(from:): constraints have no valid specialization
+Unsupported: Skipping Array.append(contentsOf:): constraints have no valid specialization
+Unsupported: Skipping Array.encode(to:): constraints have no valid specialization
+Unsupported: Skipping Array.replaceSubrange(_:with:): constraints have no valid specialization
+Unsupported: Skipping Array.removeSubranges(_:): constraints have no valid specialization
+Unsupported: Skipping Array.shuffle(): constraints have no valid specialization
+Unsupported: Skipping Array.insert(contentsOf:at:): constraints have no valid specialization
+Unsupported: Skipping Dictionary.init(from:): constraints have no valid specialization
+Unsupported: Skipping Dictionary.init(uniqueKeysWithValues:): constraints have no valid specialization
+Unsupported: Skipping Dictionary.encode(to:): constraints have no valid specialization
+Unsupported: Skipping Dictionary.merge(_:uniquingKeysWith:): constraints have no valid specialization
+Unsupported: Skipping Dictionary.merging(_:uniquingKeysWith:): constraints have no valid specialization
+Unsupported: Skipping Double.init(_:): constraints have no valid specialization
+Unsupported: Skipping Double.init(exactly:): constraints have no valid specialization
+Unsupported: Skipping Double._convert(from:): constraints have no valid specialization
+Unsupported: Skipping Double.random(in:): constraints have no valid specialization
+Unsupported: Skipping dotted operator surface Double....(maximum:)
+Unsupported: Skipping dotted operator surface Double....(minimum:)
+Unsupported: Skipping dotted operator surface Double....(minimum:maximum:)
+Unsupported: Skipping dotted operator surface Double...<(maximum:)
+Unsupported: Skipping dotted operator surface Double...<(minimum:maximum:)
+Unsupported: Skipping Int.init(codingKey:): constraints have no valid specialization
+Unsupported: Skipping Int.init(_:radix:): constraints have no valid specialization
+Unsupported: Skipping Int.init(clamping:): constraints have no valid specialization
+Unsupported: Skipping Int.init(truncatingIfNeeded:): constraints have no valid specialization
+Unsupported: Skipping Int.<<(lhs:rhs:): constraints have no valid specialization
+Unsupported: Skipping Int.<<=(lhs:rhs:): constraints have no valid specialization
+Unsupported: Skipping Int.>>(lhs:rhs:): constraints have no valid specialization
+Unsupported: Skipping Int.>>=(lhs:rhs:): constraints have no valid specialization
+Unsupported: Skipping Int._convert(from:): constraints have no valid specialization
+Unsupported: Skipping Int._nonMaskingLeftShiftGeneric(_:_:): constraints have no valid specialization
+Unsupported: Skipping Int._nonMaskingRightShiftGeneric(_:_:): constraints have no valid specialization
+Unsupported: Skipping Int.isMultiple(of:): constraints have no valid specialization
+Unsupported: Skipping Int.init(integerLiteral:): constraints have no valid specialization
+Unsupported: Skipping dotted operator surface Int....(maximum:)
+Unsupported: Skipping dotted operator surface Int....(minimum:)
+Unsupported: Skipping dotted operator surface Int....(minimum:maximum:)
+Unsupported: Skipping dotted operator surface Int...<(maximum:)
+Unsupported: Skipping dotted operator surface Int...<(minimum:maximum:)
+Unsupported: Skipping Optional.init(_:): constraints have no valid specialization
+Unsupported: Skipping Optional.init(from:): constraints have no valid specialization
+Unsupported: Skipping Optional._consumingUnsafelyUnwrap(): constraints have no valid specialization
+Unsupported: Skipping Optional.encode(to:): constraints have no valid specialization
+Unsupported: Skipping Optional.take(): constraints have no valid specialization
+Unsupported: Skipping Optional.!=(lhs:rhs:): constraints have no valid specialization
+Unsupported: Skipping Optional.~=(lhs:rhs:): constraints have no valid specialization
+Unsupported: Skipping Set.init(_:): constraints have no valid specialization
+Unsupported: Skipping Set.init(from:): constraints have no valid specialization
+Unsupported: Skipping Set.encode(to:): constraints have no valid specialization
+Unsupported: Skipping Set.formIntersection(_:): constraints have no valid specialization
+Unsupported: Skipping Set.formSymmetricDifference(_:): constraints have no valid specialization
+Unsupported: Skipping Set.formUnion(_:): constraints have no valid specialization
+Unsupported: Skipping Set.intersection(_:): constraints have no valid specialization
+Unsupported: Skipping Set.isDisjoint(with:): constraints have no valid specialization
+Unsupported: Skipping Set.isStrictSubset(of:): constraints have no valid specialization
+Unsupported: Skipping Set.isStrictSuperset(of:): constraints have no valid specialization
+Unsupported: Skipping Set.isSubset(of:): constraints have no valid specialization
+Unsupported: Skipping Set.isSuperset(of:): constraints have no valid specialization
+Unsupported: Skipping Set.subtract(_:): constraints have no valid specialization
+Unsupported: Skipping Set.subtracting(_:): constraints have no valid specialization
+Unsupported: Skipping Set.symmetricDifference(_:): constraints have no valid specialization
+Unsupported: Skipping Set.union(_:): constraints have no valid specialization
+Unsupported: Skipping String.init(_:radix:uppercase:): constraints have no valid specialization
+Unsupported: Skipping String.init(codingKey:): constraints have no valid specialization
+Unsupported: Skipping String.init(decoding:as:): constraints have no valid specialization
+Unsupported: Skipping String.init(decodingCString:as:): constraints have no valid specialization
+Unsupported: Skipping String.init(validating:as:): constraints have no valid specialization
+Unsupported: Skipping String.insert(contentsOf:at:): constraints have no valid specialization
+Unsupported: Skipping String.replaceSubrange(_:with:): constraints have no valid specialization
+Unsupported: Skipping String.decodeCString(_:as:repairingInvalidCodeUnits:): constraints have no valid specialization
+Unsupported: Skipping String.init(extendedGraphemeClusterLiteral:): constraints have no valid specialization
+Unsupported: Skipping String.joined(separator:): constraints have no valid specialization
+Unsupported: Skipping String.lastIndex(of:): constraints have no valid specialization
+Unsupported: Skipping dotted operator surface String....(maximum:)
+Unsupported: Skipping dotted operator surface String....(minimum:)
+Unsupported: Skipping dotted operator surface String....(minimum:maximum:)
+Unsupported: Skipping dotted operator surface String...<(maximum:)
+Unsupported: Skipping dotted operator surface String...<(minimum:maximum:)
+Unsupported: Skipping String.popLast(): constraints have no valid specialization
+Unsupported: Skipping String.removeLast(): constraints have no valid specialization
+Unsupported: Skipping String.removeLast(_:): constraints have no valid specialization
+Unsupported: Skipping String.init(unicodeScalarLiteral:): constraints have no valid specialization
+Unsupported: Skipping String.firstIndex(of:): constraints have no valid specialization
+Unsupported: Skipping String.index(of:): constraints have no valid specialization
+Unsupported: Skipping String.indices(of:): constraints have no valid specialization
+Unsupported: Skipping String.split(separator:maxSplits:omittingEmptySubsequences:): constraints have no valid specialization
+Unsupported: Skipping String.contains(_:): constraints have no valid specialization
+Unsupported: Skipping String.max(): constraints have no valid specialization
+Unsupported: Skipping String.min(): constraints have no valid specialization
+Unsupported: Skipping String.sorted(): constraints have no valid specialization
+Unsupported: Skipping property Swift.Array<Element>._owner: references unsupported host type Swift.Optional<Builtin.AnyObject>
+Unsupported: Skipping property Swift.Array<Element>.mutableSpan: references unsupported host type Swift.MutableSpan<Element>
+Unsupported: Skipping property Swift.Array<Element>.span: references unsupported host type Swift.Span<Element>
+Unsupported: Skipping property Swift.Bool._value: references unsupported host type Builtin.Int1
+Unsupported: Skipping property Swift.Double._value: references unsupported host type Builtin.FPIEEE64
+Unsupported: Skipping property Swift.Int._builtinWordValue: references unsupported host type Builtin.Word
+Unsupported: Skipping property Swift.Int._value: references unsupported host type Builtin.Int32
+Unsupported: Skipping property Swift.String._utf8Span: references unsupported host type Swift.Optional<Swift.UTF8Span>
+Unsupported: Skipping property Swift.String.utf8Span: references unsupported host type Swift.UTF8Span
+Unsupported: Skipping property Swift.Double.isSignMinus due to availability @available(*, unavailable, renamed: "sign")
+Unsupported: Skipping property Swift.Double.quietNaN due to availability @available(*, unavailable, renamed: "nan")
+Unsupported: Skipping property Swift.String.characters due to availability @available(swift, deprecated: 3.2, obsoleted: 5.0, message: "Please use String directly")
+Unsupported: swift-format not found; skipped formatting
+[COLLECT] Collected 5169 methods, 1324 properties
+[COLLECT] Array-related types from methods: ["Swift.Array<Element>", "Swift.ArraySlice<Element>", "Swift.ContiguousArray<Element>", "Swift.InlineArray<count,Element>", "Swift._ArrayProtocol"]
+[FLATTEN] Swift.Array conforms to: ["Swift.BidirectionalCollection", "Swift.Collection", "Swift.Collection", "Swift.Collection", "Swift.CustomDebugStringConvertible", "Swift.CustomReflectable", "Swift.CustomStringConvertible", "Swift.Decodable", "Swift.Encodable", "Swift.Equatable", "Swift.Equatable", "Swift.ExpressibleByArrayLiteral", "Swift.Hashable", "Swift.MutableCollection", "Swift.RandomAccessCollection", "Swift.RangeReplaceableCollection", "Swift.Sendable", "Swift.SendableMetatype", "Swift.Sequence", "Swift._ArrayProtocol", "Swift._DestructorSafeContainer", "Swift._HasContiguousBytes", "Swift._HasCustomAnyHashableRepresentation", "Swift.~", "Swift.~"]
+[FLATTEN] Processing Swift.RangeReplaceableCollection members for Swift.Array
+[FLATTEN] Examining Swift.RangeReplaceableCollection.popLast() for Swift.Array
+[FLATTEN] Where clause: where Self : Swift.BidirectionalCollection
+[FLATTEN] Swift.RangeReplaceableCollection.popLast() skipped due to where-clause failure
+[FLATTEN] Examining Swift.RangeReplaceableCollection.popLast() for Swift.Array
+[FLATTEN] Where clause: where Self : Swift.BidirectionalCollection, Self == Self.SubSequence
+[FLATTEN] Swift.RangeReplaceableCollection.popLast() skipped due to where-clause failure
+[FLATTEN] Examining Swift.RangeReplaceableCollection.removeLast() for Swift.Array
+[FLATTEN] Where clause: where Self : Swift.BidirectionalCollection
+[FLATTEN] Swift.RangeReplaceableCollection.removeLast() skipped due to where-clause failure
+[FLATTEN] Examining Swift.RangeReplaceableCollection.removeLast() for Swift.Array
+[FLATTEN] Where clause: where Self : Swift.BidirectionalCollection, Self == Self.SubSequence
+[FLATTEN] Swift.RangeReplaceableCollection.removeLast() skipped due to where-clause failure
+[FLATTEN] Processing Swift.Sequence members for Swift.Array
+[FLATTEN] Total Sequence members: 53
+[FLATTEN] Examining Sequence.map(_:) for Array
+[FLATTEN] Has where clause: true
+[FLATTEN] Where clause: where E : Swift.Error
+[FLATTEN] Sequence.map(_:) passed where-clause evaluation
+[DUMP] Dumping surface with 377 types
+[DUMP] Array-related types: ["Swift.Array<Element>", "Swift.ArraySlice<Element>", "Swift.ContiguousArray<Element>", "Swift.InlineArray<count,Element>", "Swift._ArrayProtocol"]
+[DUMP] Found Swift.Array type: Swift.Array<Element>
+[DUMP] Members count: 124
+[DUMP] Has map: true
+Generated 14 file(s) under /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges:
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/SwiftStdlibHostBridges.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Swift_u002E_Array_u003C_Foundation_u002E_Data_u003E_+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Swift_u002E_Array_u003C_Swift_u002E_Bool_u003E_+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Swift_u002E_Array_u003C_Swift_u002E_String_u003E_+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Swift_u002E_Bool+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Swift_u002E_Dictionary_u003C_Foundation_u002E_Data_u002C_Foundation_u002E_Data_u003E_+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Swift_u002E_Dictionary_u003C_Swift_u002E_String_u002C_Foundation_u002E_Data_u003E_+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Swift_u002E_Dictionary_u003C_Swift_u002E_String_u002C_Swift_u002E_Bool_u003E_+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Swift_u002E_Double+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Swift_u002E_Int+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Swift_u002E_Optional_u003C_Foundation_u002E_Data_u003E_+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Swift_u002E_Optional_u003C_Swift_u002E_Bool_u003E_+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Swift_u002E_Set_u003C_Foundation_u002E_Data_u003E_+Host.generated.swift
+  /Users/forest-genesis/Desktop/code/Interpreter/Swiftly/Sources/Swiftly/HostBridges/HostBridges/Swift_u002E_String+Host.generated.swift
+
+Specialization sources:
+  Swift.Array<Element>:
+    method !=(lhs:rhs:): source=auto.palette.standard, thunks=6
+    method +(lhs:rhs:): source=auto.palette.standard, thunks=6
+    method ==(lhs:rhs:): source=auto.palette.standard, thunks=4
+    method _checkSubscript(_:wasNativeTypeChecked:): source=auto.palette.standard, thunks=6
+    method _copyContents(initializing:): source=auto.palette.standard, thunks=6
+    method _copyToContiguousArray(): source=auto.palette.standard, thunks=6
+    method _customContainsEquatableElement(_:): source=auto.palette.standard, thunks=6
+    method _customIndexOfEquatableElement(_:): source=auto.palette.standard, thunks=6
+    method _customLastIndexOfEquatableElement(_:): source=auto.palette.standard, thunks=6
+    method _customRemoveLast(): source=auto.palette.standard, thunks=6
+    method _customRemoveLast(_:): source=auto.palette.standard, thunks=6
+    method _failEarlyRangeCheck(_:bounds:): source=auto.palette.standard, thunks=6
+    method _getElement(_:wasNativeTypeChecked:matchingSubscriptCheck:): source=auto.palette.standard, thunks=6
+    method _hoistableIsNativeTypeChecked(): source=auto.palette.standard, thunks=6
+    method _rawHashValue(seed:): source=auto.palette.standard, thunks=6
+    method _toCustomAnyHashable(): source=auto.palette.standard, thunks=4
+    method append(_:): source=auto.palette.standard, thunks=6
+    method append(contentsOf:): source=none, thunks=0
+    method applying(_:): source=auto.palette.standard, thunks=6
+    method contains(_:): source=auto.palette.standard, thunks=4
+    method contains(where:): source=auto.palette.standard, thunks=6
+    method distance(from:to:): source=auto.palette.standard, thunks=6
+    method dropFirst(_:): source=auto.palette.standard, thunks=6
+    method dropLast(_:): source=auto.palette.standard, thunks=6
+    method encode(to:): source=none, thunks=0
+    method enumerated(): source=auto.palette.standard, thunks=6
+    method filter(_:): source=auto.palette.standard, thunks=6
+    method firstIndex(of:): source=auto.palette.standard, thunks=4
+    method formIndex(after:): source=auto.palette.standard, thunks=6
+    method formIndex(before:): source=auto.palette.standard, thunks=6
+    method index(_:offsetBy:): source=auto.palette.standard, thunks=6
+    method index(_:offsetBy:limitedBy:): source=auto.palette.standard, thunks=6
+    method index(after:): source=auto.palette.standard, thunks=6
+    method index(before:): source=auto.palette.standard, thunks=6
+    method index(of:): source=auto.palette.standard, thunks=4
+    method indices(of:): source=auto.palette.standard, thunks=4
+    method init(): source=auto.palette.standard, thunks=6
+    method init(_:): source=none, thunks=0
+    method init(from:): source=none, thunks=0
+    method init(repeating:count:): source=auto.palette.standard, thunks=6
+    method insert(_:at:): source=auto.palette.standard, thunks=6
+    method insert(contentsOf:at:): source=none, thunks=0
+    method joined(separator:): source=auto.palette.standard, thunks=1
+    method lastIndex(of:): source=auto.palette.standard, thunks=4
+    method makeIterator(): source=auto.palette.standard, thunks=6
+    method map(_:): source=auto.palette.standard, thunks=36
+    method moveSubranges(_:to:): source=auto.palette.standard, thunks=6
+    method prefix(_:): source=auto.palette.standard, thunks=6
+    method prefix(through:): source=auto.palette.standard, thunks=6
+    method prefix(upTo:): source=auto.palette.standard, thunks=6
+    method randomElement(): source=auto.palette.standard, thunks=6
+    method remove(at:): source=auto.palette.standard, thunks=6
+    method removeAll(keepingCapacity:): source=auto.palette.standard, thunks=6
+    method removeFirst(): source=auto.palette.standard, thunks=6
+    method removeFirst(_:): source=auto.palette.standard, thunks=6
+    method removeSubrange(_:): source=auto.palette.standard, thunks=6
+    method removeSubranges(_:): source=none, thunks=0
+    method removingSubranges(_:): source=auto.palette.standard, thunks=6
+    method replaceSubrange(_:with:): source=none, thunks=0
+    method reserveCapacity(_:): source=auto.palette.standard, thunks=6
+    method reversed(): source=auto.palette.standard, thunks=6
+    method shuffle(): source=none, thunks=0
+    method shuffled(): source=auto.palette.standard, thunks=6
+    method split(separator:maxSplits:omittingEmptySubsequences:): source=auto.palette.standard, thunks=4
+    method suffix(_:): source=auto.palette.standard, thunks=6
+    method suffix(from:): source=auto.palette.standard, thunks=6
+    method swapAt(_:_:): source=auto.palette.standard, thunks=6
+    property _baseAddressIfContiguous: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property capacity: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property count: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property customMirror: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property debugDescription: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property description: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property endIndex: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property first: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property hashValue: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property indices: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property isEmpty: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property last: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property lazy: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property startIndex: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property underestimatedCount: source=auto.palette.standard, getterThunks=6, setterThunks=0
+  Swift.Dictionary<Key,Value>:
+    method !=(lhs:rhs:): source=config, thunks=5
+    method ==(lhs:rhs:): source=config, thunks=4
+    method _copyContents(initializing:): source=config, thunks=5
+    method _copyToContiguousArray(): source=config, thunks=5
+    method _customContainsEquatableElement(_:): source=config, thunks=5
+    method _customIndexOfEquatableElement(_:): source=config, thunks=5
+    method _customLastIndexOfEquatableElement(_:): source=config, thunks=5
+    method _failEarlyRangeCheck(_:bounds:): source=config, thunks=5
+    method _rawHashValue(seed:): source=config, thunks=5
+    method _toCustomAnyHashable(): source=config, thunks=4
+    method distance(from:to:): source=config, thunks=5
+    method dropFirst(_:): source=config, thunks=5
+    method dropLast(_:): source=config, thunks=5
+    method encode(to:): source=none, thunks=0
+    method enumerated(): source=config, thunks=5
+    method index(_:offsetBy:): source=config, thunks=5
+    method index(_:offsetBy:limitedBy:): source=config, thunks=5
+    method index(after:): source=config, thunks=5
+    method index(forKey:): source=config, thunks=5
+    method init(): source=config, thunks=5
+    method init(from:): source=none, thunks=0
+    method init(minimumCapacity:): source=config, thunks=5
+    method init(uniqueKeysWithValues:): source=none, thunks=0
+    method makeIterator(): source=config, thunks=5
+    method merge(_:uniquingKeysWith:): source=none, thunks=0
+    method merging(_:uniquingKeysWith:): source=none, thunks=0
+    method popFirst(): source=config, thunks=5
+    method prefix(_:): source=config, thunks=5
+    method prefix(through:): source=config, thunks=5
+    method prefix(upTo:): source=config, thunks=5
+    method randomElement(): source=config, thunks=5
+    method remove(at:): source=config, thunks=5
+    method removeAll(keepingCapacity:): source=config, thunks=5
+    method removeValue(forKey:): source=config, thunks=5
+    method removingSubranges(_:): source=config, thunks=5
+    method reserveCapacity(_:): source=config, thunks=5
+    method reversed(): source=config, thunks=5
+    method shuffled(): source=config, thunks=5
+    method suffix(_:): source=config, thunks=5
+    method suffix(from:): source=config, thunks=5
+    method updateValue(_:forKey:): source=config, thunks=5
+    property capacity: source=auto.palette.standard, getterThunks=36, setterThunks=0
+    property count: source=auto.palette.standard, getterThunks=36, setterThunks=0
+    property customMirror: source=auto.palette.standard, getterThunks=36, setterThunks=0
+    property debugDescription: source=auto.palette.standard, getterThunks=36, setterThunks=0
+    property description: source=auto.palette.standard, getterThunks=36, setterThunks=0
+    property endIndex: source=auto.palette.standard, getterThunks=36, setterThunks=0
+    property first: source=auto.palette.standard, getterThunks=36, setterThunks=0
+    property hashValue: source=auto.palette.standard, getterThunks=36, setterThunks=0
+    property indices: source=auto.palette.standard, getterThunks=36, setterThunks=0
+    property isEmpty: source=auto.palette.standard, getterThunks=36, setterThunks=0
+    property keys: source=auto.palette.standard, getterThunks=36, setterThunks=0
+    property lazy: source=auto.palette.standard, getterThunks=36, setterThunks=0
+    property startIndex: source=auto.palette.standard, getterThunks=36, setterThunks=0
+    property underestimatedCount: source=auto.palette.standard, getterThunks=36, setterThunks=0
+    property values: source=auto.palette.standard, getterThunks=36, setterThunks=0
+  Swift.Double:
+    method _convert(from:): source=none, thunks=0
+    method init(_:): source=none, thunks=0
+    method init(exactly:): source=none, thunks=0
+  Swift.Int:
+    method <<(lhs:rhs:): source=none, thunks=0
+    method <<=(lhs:rhs:): source=none, thunks=0
+    method >>(lhs:rhs:): source=none, thunks=0
+    method >>=(lhs:rhs:): source=none, thunks=0
+    method _convert(from:): source=none, thunks=0
+    method _nonMaskingLeftShiftGeneric(_:_:): source=none, thunks=0
+    method _nonMaskingRightShiftGeneric(_:_:): source=none, thunks=0
+    method init(_:radix:): source=none, thunks=0
+    method init(clamping:): source=none, thunks=0
+    method init(codingKey:): source=none, thunks=0
+    method init(truncatingIfNeeded:): source=none, thunks=0
+  Swift.Optional<Wrapped>:
+    method !=(lhs:rhs:): source=none, thunks=0
+    method ==(lhs:rhs:): source=auto.palette.standard, thunks=4
+    method _consumingUnsafelyUnwrap(): source=none, thunks=0
+    method _rawHashValue(seed:): source=auto.palette.standard, thunks=6
+    method encode(to:): source=none, thunks=0
+    method flatMap(_:): source=auto.palette.standard, thunks=36
+    method init(_:): source=none, thunks=0
+    method init(from:): source=none, thunks=0
+    method map(_:): source=auto.palette.standard, thunks=36
+    method take(): source=none, thunks=0
+    method ~=(lhs:rhs:): source=none, thunks=0
+    property customMirror: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property debugDescription: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property hashValue: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property unsafelyUnwrapped: source=auto.palette.standard, getterThunks=6, setterThunks=0
+  Swift.Set<Element>:
+    method !=(lhs:rhs:): source=auto.palette.standard, thunks=6
+    method ==(lhs:rhs:): source=auto.palette.standard, thunks=6
+    methEncountered 66 error(s). See diagnostics above.
+od _copyContents(initializing:): source=auto.palette.standard, thunks=6
+    method _copyToContiguousArray(): source=auto.palette.standard, thunks=6
+    method _customContainsEquatableElement(_:): source=auto.palette.standard, thunks=6
+    method _customIndexOfEquatableElement(_:): source=auto.palette.standard, thunks=6
+    method _customLastIndexOfEquatableElement(_:): source=auto.palette.standard, thunks=6
+    method _failEarlyRangeCheck(_:bounds:): source=auto.palette.standard, thunks=6
+    method _rawHashValue(seed:): source=auto.palette.standard, thunks=6
+    method _toCustomAnyHashable(): source=auto.palette.standard, thunks=6
+    method contains(_:): source=auto.palette.standard, thunks=6
+    method distance(from:to:): source=auto.palette.standard, thunks=6
+    method dropFirst(_:): source=auto.palette.standard, thunks=6
+    method dropLast(_:): source=auto.palette.standard, thunks=6
+    method encode(to:): source=none, thunks=0
+    method enumerated(): source=auto.palette.standard, thunks=6
+    method firstIndex(of:): source=auto.palette.standard, thunks=6
+    method formIntersection(_:): source=none, thunks=0
+    method formSymmetricDifference(_:): source=none, thunks=0
+    method formUnion(_:): source=none, thunks=0
+    method index(_:offsetBy:): source=auto.palette.standard, thunks=6
+    method index(_:offsetBy:limitedBy:): source=auto.palette.standard, thunks=6
+    method index(after:): source=auto.palette.standard, thunks=6
+    method init(): source=auto.palette.standard, thunks=6
+    method init(_:): source=none, thunks=0
+    method init(from:): source=none, thunks=0
+    method init(minimumCapacity:): source=auto.palette.standard, thunks=6
+    method insert(_:): source=auto.palette.standard, thunks=6
+    method intersection(_:): source=none, thunks=0
+    method isDisjoint(with:): source=none, thunks=0
+    method isStrictSubset(of:): source=none, thunks=0
+    method isStrictSuperset(of:): source=none, thunks=0
+    method isSubset(of:): source=none, thunks=0
+    method isSuperset(of:): source=none, thunks=0
+    method makeIterator(): source=auto.palette.standard, thunks=6
+    method popFirst(): source=auto.palette.standard, thunks=6
+    method prefix(_:): source=auto.palette.standard, thunks=6
+    method prefix(through:): source=auto.palette.standard, thunks=6
+    method prefix(upTo:): source=auto.palette.standard, thunks=6
+    method randomElement(): source=auto.palette.standard, thunks=6
+    method remove(_:): source=auto.palette.standard, thunks=6
+    method remove(at:): source=auto.palette.standard, thunks=6
+    method removeAll(keepingCapacity:): source=auto.palette.standard, thunks=6
+    method removeFirst(): source=auto.palette.standard, thunks=6
+    method removingSubranges(_:): source=auto.palette.standard, thunks=6
+    method reserveCapacity(_:): source=auto.palette.standard, thunks=6
+    method reversed(): source=auto.palette.standard, thunks=6
+    method shuffled(): source=auto.palette.standard, thunks=6
+    method subtract(_:): source=none, thunks=0
+    method subtracting(_:): source=none, thunks=0
+    method suffix(_:): source=auto.palette.standard, thunks=6
+    method suffix(from:): source=auto.palette.standard, thunks=6
+    method symmetricDifference(_:): source=none, thunks=0
+    method union(_:): source=none, thunks=0
+    method update(with:): source=auto.palette.standard, thunks=6
+    property capacity: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property count: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property customMirror: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property debugDescription: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property description: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property endIndex: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property first: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property hashValue: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property indices: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property isEmpty: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property lazy: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property startIndex: source=auto.palette.standard, getterThunks=6, setterThunks=0
+    property underestimatedCount: source=auto.palette.standard, getterThunks=6, setterThunks=0
+  Swift.String:
+    method decodeCString(_:as:repairingInvalidCodeUnits:): source=none, thunks=0
+    method init(_:radix:uppercase:): source=none, thunks=0
+    method init(codingKey:): source=none, thunks=0
+    method init(decoding:as:): source=none, thunks=0
+    method init(decodingCString:as:): source=none, thunks=0
+    method init(describing:): source=auto.palette.standard, thunks=6
+    method init(reflecting:): source=auto.palette.standard, thunks=6
+    method init(validating:as:): source=none, thunks=0
+    method insert(contentsOf:at:): source=none, thunks=0
+    method max(_:_:): source=auto.palette.standard, thunks=3
+    method min(_:_:): source=auto.palette.standard, thunks=3
+    method replaceSubrange(_:with:): source=none, thunks=0
+
+HostSurfaceCollector fallback placeholder hits: 0
+HostSurfaceResolver placeholder drop hits: 0
+
+Warnings emitted: 341 (see stderr for details)

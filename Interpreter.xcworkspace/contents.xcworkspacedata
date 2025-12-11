@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:TestPlan.xctestplan">
+   </FileRef>
+   <Group
+      location = "group:Packages"
+      name = "Packages">
+      <FileRef
+         location = "container:Swiftly">
+      </FileRef>
+      <FileRef
+         location = "container:BridgeGenCLI">
+      </FileRef>
+      <FileRef
+         location = "container:HostCodegenCore">
+      </FileRef>
+      <FileRef
+         location = "container:HostSurfaceKit">
+      </FileRef>
+      <FileRef
+         location = "container:IntegrationTest">
+      </FileRef>
+      <FileRef
+         location = "container:InterpreterCompiler">
+      </FileRef>
+      <FileRef
+         location = "container:InterpreterVM">
+      </FileRef>
+      <FileRef
+         location = "container:InterpreterModels">
+      </FileRef>
+   </Group>
+</Workspace>

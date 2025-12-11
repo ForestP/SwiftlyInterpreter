@@ -1,0 +1,54 @@
+{
+  "specializations": {
+    "Swift.Dictionary<Key,Value>": {
+      "Key": [
+        "Swift.String"
+      ],
+      "Value": [
+        "Foundation.Data",
+        "Swift.Bool",
+        "Swift.Double",
+        "Swift.Int",
+        "Swift.String"
+      ],
+      "S": [
+        "Swift.Array<Swift.Dictionary<Key,Value>.Element>"
+      ]
+    }
+  },
+  "conformances": {
+    "Swift.Never": ["Swift.Error"],
+    "Swift.Bool": ["Swift.Hashable", "Swift.Equatable"],
+    "Swift.Double": ["Swift.Hashable", "Swift.Comparable", "Swift.Equatable"],
+    "Swift.Int": ["Swift.Hashable", "Swift.Comparable", "Swift.Equatable"],
+    "Swift.String": ["Swift.Hashable", "Swift.Comparable", "Swift.Equatable"]
+  },
+  "protocol_witnesses": {
+    "Swift.Collection": ["Swift.Array<Element>"],
+    "Swift.Sequence": ["Swift.Array<Element>"]
+  },
+  "forceSpecializations": {
+    "Swift.Array<Element>": ["map(_:)", "filter(_:)", "contains(where:)"],
+    "Swift.Optional<Wrapped>": ["map(_:)", "flatMap(_:)", "filter(_:)"],
+    "Swift.Dictionary<Key,Value>": ["merge(_:uniquingKeysWith:)", "merging(_:uniquingKeysWith:)"]
+  },
+  "exported_type_names": {
+    "Swift.Array<Swift.Bool>": "Array<Swift.Bool>",
+    "Swift.Array<Swift.Double>": "Array<Swift.Double>",
+    "Swift.Array<Swift.Int>": "Array<Swift.Int>",
+    "Swift.Array<Swift.String>": "Array<Swift.String>",
+    "Swift.Optional<Swift.Bool>": "Optional<Swift.Bool>",
+    "Swift.Optional<Swift.Double>": "Optional<Swift.Double>",
+    "Swift.Optional<Swift.Int>": "Optional<Swift.Int>",
+    "Swift.Optional<Swift.String>": "Optional<Swift.String>",
+    "Swift.Dictionary<Swift.String,Foundation.Data>": "Dictionary<Swift.String,Foundation.Data>",
+    "Swift.Dictionary<Swift.String,Swift.Bool>": "Dictionary<Swift.String,Swift.Bool>",
+    "Swift.Dictionary<Swift.String,Swift.Double>": "Dictionary<Swift.String,Swift.Double>",
+    "Swift.Dictionary<Swift.String,Swift.Int>": "Dictionary<Swift.String,Swift.Int>",
+    "Swift.Dictionary<Swift.String,Swift.String>": "Dictionary<Swift.String,Swift.String>",
+    "Swift.Set<Swift.Bool>": "Set<Swift.Bool>",
+    "Swift.Set<Swift.Double>": "Set<Swift.Double>",
+    "Swift.Set<Swift.Int>": "Set<Swift.Int>",
+    "Swift.Set<Swift.String>": "Set<Swift.String>"
+  }
+}

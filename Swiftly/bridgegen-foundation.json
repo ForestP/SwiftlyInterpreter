@@ -1,0 +1,43 @@
+{
+  "specializations": {
+    "Foundation.FloatingPointFormatStyle<T>": {
+      "T": ["Swift.Double"]
+    },
+    "Foundation.FloatingPointFormatStyle.Currency<T>": {
+      "T": ["Swift.Double"]
+    },
+    "Foundation.IntegerFormatStyle<T>": {
+      "T": ["Swift.Int"]
+    },
+    "Foundation.PredicateExpressions.DictionaryKeyDefaultValueSubscript<Wrapped,Key,Default>": {
+      "Wrapped": [
+        "Foundation.PredicateExpressions.Value<Swift.Dictionary<Swift.String,Foundation.Data>>"
+      ],
+      "Key": [
+        "Foundation.PredicateExpressions.Value<Swift.String>"
+      ],
+      "Default": [
+        "Foundation.PredicateExpressions.Value<Foundation.Data>"
+      ]
+    }
+  },
+  "property_specializations": {
+    "Foundation.FloatingPointFormatStyle<T>": {
+      "instance::parseStrategy": {
+        "T": ["Swift.Double"]
+      }
+    },
+    "Foundation.IntegerFormatStyle<T>": {
+      "instance::parseStrategy": {
+        "T": ["Swift.Int"]
+      }
+    }
+  },
+  "conformances": {
+    "Swift.Double": ["Swift.BinaryFloatingPoint"],
+    "Swift.Int": ["Swift.BinaryInteger"],
+    "Foundation.PredicateExpressions.Value<Swift.String>": ["Foundation.PredicateExpression"],
+    "Foundation.PredicateExpressions.Value<Foundation.Data>": ["Foundation.PredicateExpression"],
+    "Foundation.PredicateExpressions.Value<Swift.Dictionary<Swift.String,Foundation.Data>>": ["Foundation.PredicateExpression"]
+  }
+}

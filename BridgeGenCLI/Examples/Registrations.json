@@ -1,0 +1,7 @@
+{
+  "registered_types": [
+    "Demo.Box<Swift.String>",
+    "Demo.Box<Swift.Int>"
+  ]
+}
+

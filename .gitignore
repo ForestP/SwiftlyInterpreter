@@ -1,0 +1,7 @@
+/js-compiler/node_modules/**
+/js-compiler/dist/**
+
+*.swiftinterface
+*.wasm
+
+**/.build/**
